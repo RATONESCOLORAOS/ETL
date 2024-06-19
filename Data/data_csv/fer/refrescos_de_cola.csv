@@ -1,0 +1,45 @@
+producto,marca,formato,cantidad,precio,supermercado
+Refresco,Coca-Cola,Botella,2 botellas x 2 L,"3,70 €",Mercadona
+Refresco,Coca-Cola,Botella,2 L,"1,99 €",Mercadona
+Refresco,Coca-Cola,Botella,"1,25 L","1,49 €",Mercadona
+Refresco,Coca-Cola,Botella,4 botellas x 500 ml,"5,00 €",Mercadona
+Refresco,Coca-Cola,Botella,500 ml,"1,45 €",Mercadona
+Refresco,Coca-Cola,Lata,12 latas x 330 ml,"10,44 €",Mercadona
+Refresco,Coca-Cola,Lata,330 ml,"0,89 €",Mercadona
+Refresco cola,Hacendado,Botella,2 L,"0,80 €",Mercadona
+Refresco cola,Hacendado,Lata,6 latas x 330 ml,"2,04 €",Mercadona
+Refresco cola,Hacendado,Lata,330 ml,"0,34 €",Mercadona
+Refresco cola,Pepsi,Botella,"2 botellas x 1,75 L","3,30 €",Mercadona
+Refresco cola,Pepsi,Botella,"1,75 L","1,69 €",Mercadona
+Refresco cola,Pepsi,Lata,12 latas x 330 ml,"7,44 €",Mercadona
+Refresco cola,Pepsi,Lata,330 ml,"0,75 €",Mercadona
+Refresco  Zero azúcar,Coca-Cola,Lata,12 latas x 330 ml,"10,44 €",Mercadona
+Refresco  Zero azúcar,Coca-Cola,Lata,330 ml,"0,89 €",Mercadona
+Refresco  Zero azúcar,Coca-Cola,Botella,2 botellas x 2 L,"3,70 €",Mercadona
+Refresco  Zero azúcar,Coca-Cola,Botella,2 L,"1,99 €",Mercadona
+Refresco  Zero azúcar,Coca-Cola,Botella,"1,25 L","1,49 €",Mercadona
+Refresco  Zero azúcar,Coca-Cola,Botella,4 botellas x 500 ml,"5,00 €",Mercadona
+Refresco  Zero azúcar,Coca-Cola,Botella,500 ml,"1,45 €",Mercadona
+Refresco  light,Coca-Cola,Lata,9 latas x 330 ml,"7,83 €",Mercadona
+Refresco  light,Coca-Cola,Lata,330 ml,"0,89 €",Mercadona
+Refresco  Zero Zero,Coca-Cola,Lata,12 latas x 330 ml,"10,44 €",Mercadona
+Refresco  Zero Zero,Coca-Cola,Lata,330 ml,"0,89 €",Mercadona
+Refresco  Zero Zero,Coca-Cola,Botella,2 botellas x 2 L,"3,70 €",Mercadona
+Refresco  Zero Zero,Coca-Cola,Botella,2 L,"1,99 €",Mercadona
+Refresco cola  Zero azúcar,Hacendado,Botella,2 L,"0,70 €",Mercadona
+Refresco cola  Zero azúcar,Hacendado,Lata,6 latas x 330 ml,"1,92 €",Mercadona
+Refresco cola  Zero azúcar,Hacendado,Lata,330 ml,"0,32 €",Mercadona
+Refresco cola  Zero azúcar Zero cafeína,Hacendado,Botella,2 L,"0,70 €",Mercadona
+Refresco cola  Zero azúcar Zero cafeína,Hacendado,Lata,6 latas x 330 ml,"1,92 €",Mercadona
+Refresco cola  Zero azúcar Zero cafeína,Hacendado,Lata,330 ml,"0,32 €",Mercadona
+Refresco cola  Zero azúcar,Pepsi,Lata,12 latas x 330 ml,"7,44 €",Mercadona
+Refresco cola  Zero azúcar,Pepsi,Lata,330 ml,"0,75 €",Mercadona
+Refresco cola  Zero azúcar,Pepsi,Botella,"2 botellas x 1,75 L","3,30 €",Mercadona
+Refresco cola  Zero azúcar,Pepsi,Botella,"1,75 L","1,69 €",Mercadona
+Refresco  Zero Zero,Coca-Cola,Lata,12 latas x 330 ml,"10,44 €",Mercadona
+Refresco  Zero Zero,Coca-Cola,Lata,330 ml,"0,89 €",Mercadona
+Refresco  Zero Zero,Coca-Cola,Botella,2 botellas x 2 L,"3,70 €",Mercadona
+Refresco  Zero Zero,Coca-Cola,Botella,2 L,"1,99 €",Mercadona
+Refresco cola  Zero azúcar Zero cafeína,Hacendado,Botella,2 L,"0,70 €",Mercadona
+Refresco cola  Zero azúcar Zero cafeína,Hacendado,Lata,6 latas x 330 ml,"1,92 €",Mercadona
+Refresco cola  Zero azúcar Zero cafeína,Hacendado,Lata,330 ml,"0,32 €",Mercadona

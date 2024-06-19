@@ -1,0 +1,64 @@
+producto,marca,formato,cantidad,precio,supermercado
+Salmón a rodajas,Hacendado,Pieza,"2,99 kg aprox.","41,72 €",Mercadona
+Salmón media pieza a rodajas,Hacendado,,"1/2 Pieza 1,43 kg aprox.","19,89 €",Mercadona
+Salmón abierto en libro sin cabeza y sin espina,Hacendado,Pieza,"2,99 kg aprox.","41,72 €",Mercadona
+Salmón media pieza abierto en libro sin cabeza y sin espina,Hacendado,,"1/2 Pieza 1,43 kg aprox.","19,89 €",Mercadona
+Salmón sin aletas y sin escamas,Hacendado,Pieza,"2,99 kg aprox.","41,72 €",Mercadona
+Salmón media pieza sin aletas y sin escamas,Hacendado,,"1/2 Pieza 1,43 kg aprox.","19,89 €",Mercadona
+Filete de salmón,Hacendado,Bandeja,400 g aprox.,"9,40 €",Mercadona
+Rodajas de salmón,Hacendado,Bandeja,400 g aprox.,"8,30 €",Mercadona
+Escalopines de salmón,Hacendado,Bandeja,400 g aprox.,"10,60 €",Mercadona
+Dorada limpia con cabeza,Hacendado,Pieza,556 g aprox.,"4,87 €",Mercadona
+Dorada abierta a la espalda con espinas y con cabeza,Hacendado,Pieza,556 g aprox.,"4,87 €",Mercadona
+Dorada a filetes sin cabeza y sin espina,Hacendado,Pieza,556 g aprox.,"4,87 €",Mercadona
+Dorada abierta en libro sin cabeza y sin espina,Hacendado,Pieza,556 g aprox.,"4,87 €",Mercadona
+Dorada sin limpiar,Hacendado,Pieza,556 g aprox.,"4,87 €",Mercadona
+Filete de dorada,Hacendado,Bandeja,200 g aprox.,"4,50 €",Mercadona
+Lubina limpia con cabeza,Hacendado,Pieza,480 g aprox.,"3,96 €",Mercadona
+Lubina abierta a la espalda con espinas y con cabeza,Hacendado,Pieza,480 g aprox.,"3,96 €",Mercadona
+Lubina a filetes sin cabeza y sin espina,Hacendado,Pieza,480 g aprox.,"3,96 €",Mercadona
+Lubina abierta en libro sin cabeza y sin espina,Hacendado,Pieza,480 g aprox.,"3,96 €",Mercadona
+Lubina sin limpiar,Hacendado,Pieza,480 g aprox.,"3,96 €",Mercadona
+Filete de lubina,Hacendado,Bandeja,200 g aprox.,"4,35 €",Mercadona
+Merluza a rodajas,Hacendado,Pieza,"1,25 kg aprox.","12,45 €",Mercadona
+Merluza media pieza a rodajas,Hacendado,,1/2 Pieza 696 g aprox.,"6,93 €",Mercadona
+Merluza abierta en libro sin cabeza y sin espina,Hacendado,Pieza,"1,25 kg aprox.","12,45 €",Mercadona
+Merluza media pieza abierta en libro sin cabeza y sin espina,Hacendado,,1/2 Pieza 696 g aprox.,"6,93 €",Mercadona
+Merluza sin aletas y sin escamas,Hacendado,Pieza,"1,25 kg aprox.","12,45 €",Mercadona
+Merluza media pieza sin aletas y sin escamas,Hacendado,,1/2 Pieza 696 g aprox.,"6,93 €",Mercadona
+Porciones de merluza del cabo,Hacendado,Bandeja,385 g aprox.,"9,22 €",Mercadona
+Bacalao a rodajas,Hacendado,Pieza,"2,23 kg aprox.","22,20 €",Mercadona
+Bacalao media pieza a rodajas,Hacendado,,"1/2 Pieza 1,13 kg aprox.","11,28 €",Mercadona
+Bacalao abierto en libro sin cabeza y sin espina,Hacendado,Pieza,"2,23 kg aprox.","22,20 €",Mercadona
+Bacalao media pieza abierto en libro sin cabeza y sin espina,Hacendado,,"1/2 Pieza 1,13 kg aprox.","11,28 €",Mercadona
+Bacalao al punto de sal con agua añadida,Hacendado,Bandeja,500 g aprox.,"7,48 €",Mercadona
+Hoja de bacalao,Hacendado,Paquete,800 g aprox.,"13,92 €",Mercadona
+Migas de bacalao saladas,Hacendado,Bandeja,250 g,"5,55 €",Mercadona
+Trozos de bacalao salado,Hacendado,Paquete,400 g,"4,55 €",Mercadona
+Corvina limpia con cabeza,Hacendado,Pieza,"1,39 kg aprox.","13,79 €",Mercadona
+Corvina abierta a la espalda con espinas y con cabeza,Hacendado,Pieza,"1,39 kg aprox.","13,79 €",Mercadona
+Corvina a filetes,Hacendado,Pieza,"1,39 kg aprox.","13,79 €",Mercadona
+Calamar mediano sin limpiar,Hacendado,Pieza,119 g aprox.,"1,54 €",Mercadona
+Calamar mediano limpio sin barquilla y sin tripa,Hacendado,Pieza,119 g aprox.,"1,54 €",Mercadona
+Sepia,Hacendado,Pieza,681 g aprox.,"9,50 €",Mercadona
+Calamar pequeño limpio patagónico,Hacendado,Bandeja,300 g,"5,10 €",Mercadona
+Tiras de potón del Pacífico,Hacendado,Bandeja,300 g,"3,60 €",Mercadona
+Anillas de pota Argentina,Hacendado,Bandeja,250 g,"3,80 €",Mercadona
+Patas de pulpo cocido,Hacendado,Bandeja,250 g,"9,95 €",Mercadona
+Trucha abierta en libro con cabeza,Hacendado,Pieza,507 g aprox.,"4,54 €",Mercadona
+Trucha abierta en libro sin cabeza y sin espina,Hacendado,Pieza,507 g aprox.,"4,54 €",Mercadona
+Trucha sin aletas,Hacendado,Pieza,507 g aprox.,"4,54 €",Mercadona
+Filetes de trucha Arco iris,Hacendado,Bandeja,226 g aprox.,"3,60 €",Mercadona
+Lenguado sin cabeza y sin piel,Hacendado,Pieza,250 g aprox.,"5,99 €",Mercadona
+Lenguado sin limpiar,Hacendado,Pieza,250 g aprox.,"5,99 €",Mercadona
+"Rodaballo con piel, sin aletas y sin agallas",Hacendado,Pieza,"1,44 kg aprox.","19,39 €",Mercadona
+Rodaballo a filetes,Hacendado,Pieza,"1,41 kg aprox.","19,05 €",Mercadona
+Rodaballo a filetes y sin piel,Hacendado,Pieza,"1,49 kg aprox.","20,17 €",Mercadona
+Caballa Verdel sin tripa,Hacendado,Pieza,429 g aprox.,"2,98 €",Mercadona
+Caballa Verdel sin cabeza y sin tripa,Hacendado,Pieza,429 g aprox.,"2,98 €",Mercadona
+Caballa Verdel a rodajas sin cabeza y sin tripa,Hacendado,Pieza,429 g aprox.,"2,98 €",Mercadona
+Caballa Verdel a filetes sin cabeza y sin tripa,Hacendado,Pieza,429 g aprox.,"2,98 €",Mercadona
+Caballa Verdel abierta a la espalda con espinas y con cabeza,Hacendado,Pieza,429 g aprox.,"2,98 €",Mercadona
+Emperador marinado,Hacendado,Bandeja,230 g aprox.,"5,39 €",Mercadona
+Filetes de Gallineta descongelada,Hacendado,Bandeja,380 g aprox.,"4,92 €",Mercadona
+Merluza rebozada,Hacendado,Bandeja,230 g,"3,75 €",Mercadona

@@ -1,0 +1,67 @@
+producto,marca,formato,cantidad,precio,supermercado
+Cerveza Clásica,Steinburg,Pack,12 latas x 330 ml,"3,72 €",Mercadona
+Cerveza Clásica,Steinburg,Lata,330 ml,"0,31 €",Mercadona
+Cerveza,Heineken,Pack,12 latas x 330 ml,"8,28 €",Mercadona
+Cerveza,Heineken,Lata,330 ml,"0,82 €",Mercadona
+Cerveza doble malta,Voll-Damm,Pack,6 latas x 330 ml,"5,58 €",Mercadona
+Cerveza doble malta,Voll-Damm,Lata,330 ml,"0,99 €",Mercadona
+Cerveza Suave,Steinburg,Pack,12 latas x 330 ml,"3,48 €",Mercadona
+Cerveza Suave,Steinburg,Lata,330 ml,"0,29 €",Mercadona
+Cerveza Especial,Steinburg,Pack,12 latas x 330 ml,"4,44 €",Mercadona
+Cerveza Especial,Steinburg,Lata,330 ml,"0,37 €",Mercadona
+Cerveza doble malta,Hacendado,Pack,6 latas x 330 ml,"3,18 €",Mercadona
+Cerveza doble malta,Hacendado,Lata,330 ml,"0,53 €",Mercadona
+Cerveza sin gluten,Steinburg,Pack,12 latas x 330 ml,"7,92 €",Mercadona
+Cerveza sin gluten,Steinburg,Lata,330 ml,"0,66 €",Mercadona
+Cerveza,Victoria Málaga,Pack,6 latas x 330 ml,"4,32 €",Mercadona
+Cerveza,Victoria Málaga,Lata,330 ml,"0,72 €",Mercadona
+Cerveza Pilsen,Cruzcampo,Pack,12 latas x 330 ml,"5,88 €",Mercadona
+Cerveza Pilsen,Cruzcampo,Lata,330 ml,"0,72 €",Mercadona
+Cerveza negra,Victoria Marengo,Pack,6 latas x 330 ml,"5,40 €",Mercadona
+Cerveza negra,Victoria Marengo,Lata,330 ml,"0,90 €",Mercadona
+Cerveza especial,Alhambra,Pack,12 latas x 330 ml,"0,84 €",Mercadona
+Cerveza especial,Alhambra,Lata,330 ml,"7,68 €",Mercadona
+Cerveza tradicional,Alhambra,Pack,12 latas x 330 ml,"6,96 €",Mercadona
+Cerveza tradicional,Alhambra,Lata,330 ml,"0,73 €",Mercadona
+Cerveza Clásica,Steinburg,Pack,6 botellas x 1 L,"6,30 €",Mercadona
+Cerveza Clásica,Steinburg,Botella,1 L,"1,05 €",Mercadona
+Cerveza Clásica,Steinburg,Pack,6 botellas x 1 L,"5,70 €",Mercadona
+Cerveza Clásica,Steinburg,Botella,1 L,"0,95 €",Mercadona
+Cerveza Clásica,Steinburg,Pack,12 botellines x 250 ml,"4,20 €",Mercadona
+Cerveza Clásica,Steinburg,Botellín,250 ml,"0,35 €",Mercadona
+Cerveza reserva 1925,Alhambra,Pack,6 botellines x 330 ml,"7,92 €",Mercadona
+Cerveza reserva 1925,Alhambra,Botellín,330 ml,"1,49 €",Mercadona
+Cerveza,Heineken,Pack,6 botellines x 250 ml,"3,36 €",Mercadona
+Cerveza,Heineken,Botellín,250 ml,"0,70 €",Mercadona
+Cerveza El  sin filtrar,Águila,Pack,6 botellines x 330 ml,"5,94 €",Mercadona
+Cerveza El  sin filtrar,Águila,Botellín,330 ml,"0,99 €",Mercadona
+Cerveza sin gluten,Ambar,Pack,6 botellines x 250 ml,"4,32 €",Mercadona
+Cerveza sin gluten,Ambar,Botellín,250 ml,"0,72 €",Mercadona
+Cerveza especial,Estrella Galicia,Pack,12 botellines x 250 ml,"7,32 €",Mercadona
+Cerveza especial,Estrella Galicia,Botellín,250 ml,"0,67 €",Mercadona
+Cerveza especial 18/70,La Rubia,Pack,6 botellines x 250 ml,"4,74 €",Mercadona
+Cerveza especial 18/70,La Rubia,Botellín,250 ml,"0,89 €",Mercadona
+Cerveza tostada,Amstel Oro,Pack,6 botellines x 250 ml,"4,14 €",Mercadona
+Cerveza tostada,Amstel Oro,Botellín,250 ml,"0,76 €",Mercadona
+Cerveza lager,Alhambra,Pack,12 botellines x 25 ml,"7,56 €",Mercadona
+Cerveza lager,Alhambra,Botellín,250 ml,"0,65 €",Mercadona
+Cerveza de trigo,Paulaner,Pack,6 botellines x 330 ml,"6,90 €",Mercadona
+Cerveza de trigo,Paulaner,Botellín,330 ml,"1,25 €",Mercadona
+Cerveza Especial,Steinburg,Pack,12 botellines x 250 ml,"4,92 €",Mercadona
+Cerveza Especial,Steinburg,Botellín,250 ml,"0,41 €",Mercadona
+Cerveza tradicional,Alhambra,Pack,12 botellines x 0 ml,"5,88 €",Mercadona
+Cerveza tradicional,Alhambra,Botellín,25 ml,"0,59 €",Mercadona
+Cerveza tradicional,Alhambra,Pack,6 botellas x 1 L,"7,56 €",Mercadona
+Cerveza tradicional,Alhambra,Botella,1 L,"1,50 €",Mercadona
+Cerveza extra 1906 reserva especial,Hacendado,Pack,6 botellines x 200 ml,"4,98 €",Mercadona
+Cerveza extra 1906 reserva especial,Hacendado,Botellín,200 ml,"0,85 €",Mercadona
+Cerveza Radler con zumo natural de limón,Steinburg,Pack,12 latas x 330 ml,"4,80 €",Mercadona
+Cerveza Radler con zumo natural de limón,Steinburg,Lata,330 ml,"0,40 €",Mercadona
+Bebida cider con gas  sabor a manzana,Wild panther,Pack,12 botellines x 200 ml,"9,00 €",Mercadona
+Bebida cider con gas  sabor manzana,Wild panther,Botellín,200 ml,"0,75 €",Mercadona
+Cerveza,Corona,Pack,6 botellines x 355 ml,"7,80 €",Mercadona
+Cerveza,Corona,Botellín,355 ml,"1,50 €",Mercadona
+Cerveza Shandy sabor limón,Steinburg,Pack,12 latas x 330 ml,"4,20 €",Mercadona
+Cerveza Shandy sabor limón,Steinburg,Lata,330 ml,"0,35 €",Mercadona
+Cerveza con sabor a tequila,Desperados,Pack,6 botellines x 250 ml,"5,82 €",Mercadona
+Cerveza con sabor a tequila,Desperados,Botellín,250 ml,"1,00 €",Mercadona

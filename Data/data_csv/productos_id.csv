@@ -1,0 +1,1001 @@
+producto,marca,formato,cantidad,precio,supermercado,categoría,id_producto
+"Manzana golden",Dia,Bolsa,"1 Kg",1.99,Dia,"Fruta y verduras",1
+"Manzana roja",Dia,Bolsa,"1 Kg",2.19,Dia,"Fruta y verduras",2
+"Manzana pink lady",Dia,Bandeja,"550 g",1.99,Dia,"Fruta y verduras",3
+"Manzana golden",Dia,Granel,"1 Kg",2.19,Dia,"Fruta y verduras",4
+"Manzana granny",Dia,Granel,"800 g",1.75,Dia,"Fruta y verduras",5
+"Manzana fuji",Dia,Bolsa,"1 Kg",2.29,Dia,"Fruta y verduras",6
+"Manzana roja selección",Dia,Granel,"1 Kg",2.69,Dia,"Fruta y verduras",7
+"Bebida espirituosa tipo brandy",Gladiador,Botella,"1 l",5.99,Dia,"Bebidas con alcohol",8
+Brandy,Veterano,Botella,"1 l",9.35,Dia,"Bebidas con alcohol",9
+"Brandy de Jerez solera reserva",Magno,Botella,"70 cl",11.99,Dia,"Bebidas con alcohol",10
+"Brandy de Jerez solera",Gladiador,Botella,"70 cl",6.79,Dia,"Bebidas con alcohol",11
+Brandy,Centenario,Botella,"1 l",9.49,Dia,"Bebidas con alcohol",12
+"Brandy de Jerez",Soberano,Botella,"70 cl",7.99,Dia,"Bebidas con alcohol",13
+Brandy,Torres,Botella,"  70 cl",10.5,Dia,"Bebidas con alcohol",14
+"Brandy de Jerez solera gran reserva","Alma de magno",Botella,"70 cl",16.79,Dia,"Bebidas con alcohol",15
+"Huevos super grandes XL",Hacendado,Paquete,"12 ud.",3.25,Mercadona,Huevos,16
+"Huevos grandes L",Hacendado,Paquete,"12 ud.",2.2,Mercadona,Huevos,17
+"Huevos grandes L",Hacendado,Paquete,"6 ud.",1.2,Mercadona,Huevos,18
+"Huevos medianos M",Hacendado,Paquete,"12 ud.",2,Mercadona,Huevos,19
+"Huevos de gallinas camperas",Hacendado,Paquete,"12 ud.",2.62,Mercadona,Huevos,20
+"Huevos de gallinas camperas",Hacendado,Paquete,"6 ud.",1.59,Mercadona,Huevos,21
+"Huevos cocidos",Hacendado,Paquete,"6 ud.",1.6,Mercadona,Huevos,22
+"Huevos de codorniz",Hacendado,Paquete,"18 ud.",1.65,Mercadona,Huevos,23
+"Claras de huevo líquidas pasteurizadas",Hacendado,Botella,"1 L",2.6,Mercadona,Huevos,24
+"Claras de huevo líquidas pasteurizadas",Hacendado,Botella,"300 ml",1.55,Mercadona,Huevos,25
+Huevos,Hacendado,Paquete,"24 ud.",3.8,Mercadona,Huevos,26
+"Cerveza extra malta",Ramblers,Lata,"33 cl",0.53,Dia,"Bebidas con alcohol",27
+"Cerveza tostada",Ramblers,Lata,"33 cl",0.49,Dia,"Bebidas con alcohol",28
+"Cerveza de trigo",Ramblers,Botella,"50 cl",1.05,Dia,"Bebidas con alcohol",29
+"Cerveza muy suave",Ramblers,Botella,"33 cl",0.89,Dia,"Bebidas con alcohol",30
+Cerveza,Ramblers,Lata,"  33 cl",0.45,Dia,"Bebidas con alcohol",31
+"Cerveza doble malta","Voll Damm",Lata,"33 cl",0.99,Dia,"Bebidas con alcohol",32
+"Cerveza mexicana",Corona,Botella,"35.5 cl",1.5,Dia,"Bebidas con alcohol",33
+"Cerveza reserva",Alhambra,Botella,"  4 x 33 cl",5.89,Dia,"Bebidas con alcohol",34
+"Cerveza reserva",Alhambra,Botella,"  6 x 225 ml",5.99,Dia,"Bebidas con alcohol",35
+"Cerveza con tequila",Desperados,Botella,"33 cl",1.49,Dia,"Bebidas con alcohol",36
+"Cerveza especial blue",Salitos,Botella,"33 cl",1.75,Dia,"Bebidas con alcohol",37
+Cerveza,Franz,Botella,"50 cl",1.86,Dia,"Bebidas con alcohol",38
+"Cerveza especial negra",Ramblers,Lata,"33 cl",0.53,Dia,"Bebidas con alcohol",39
+"Cerveza de trigo alemana",Paulaner,Botella,"50 cl",1.99,Dia,"Bebidas con alcohol",40
+"Cerveza reserva especial",1906,Botella,"6 x 33 cl",7.29,Dia,"Bebidas con alcohol",41
+"Cerveza artesana",Ramblers,Botella,"33 cl",0.93,Dia,"Bebidas con alcohol",42
+"Cerveza tostada doble lúpulo  Maestra",Mahou,Lata,"33 cl",1,Dia,"Bebidas con alcohol",43
+"Cerveza rosé",Mahou,Lata,"33 cl",0.89,Dia,"Bebidas con alcohol",44
+"Cerveza artesana ipa",Ramblers,Botella,"33 cl",1.3,Dia,"Bebidas con alcohol",45
+Cerveza,Budweiser,Botella,"6 x 25 cl",4.69,Dia,"Bebidas con alcohol",46
+Cerveza,Ambar,Botella,"  33 cl",1.49,Dia,"Bebidas con alcohol",47
+Cerveza,Budweiser,Lata,"33 cl",0.95,Dia,"Bebidas con alcohol",48
+"Cerveza tostada doble lúpulo  Maestra pack",Mahou,Frasco,"6 x 25 cl",5.55,Dia,"Bebidas con alcohol",49
+"Cerveza ipa",Ambar,Lata,"33 cl",1.29,Dia,"Bebidas con alcohol",50
+"Cerveza rubia","Pilsner Urquell",Lata,"33 cl",1.39,Dia,"Bebidas con alcohol",51
+"Cerveza morena tostada suavemente",Ambar,Lata,"33 cl",0.95,Dia,"Bebidas con alcohol",52
+"Cerveza especial","La rubia",Botella,"  33 cl",1.17,Dia,"Bebidas con alcohol",53
+"Cerveza artesanal","Blue moon",Botella,"33 cl",1.69,Dia,"Bebidas con alcohol",54
+Cerveza,Corona,Botella,"  33 cl",1.6,Dia,"Bebidas con alcohol",55
+"Cerveza ipa",Arriaca,Lata,"33 cl",1.75,Dia,"Bebidas con alcohol",56
+"Cerveza artesana all day ipa",Founders,Lata,"33 cl",1.89,Dia,"Bebidas con alcohol",57
+"Cerveza especial pink",Salitos,Botella,"33 cl",1.75,Dia,"Bebidas con alcohol",58
+"Cerveza artesana roja",Ramblers,Botella,"33 cl",1.05,Dia,"Bebidas con alcohol",59
+"Cerveza extra  Selecta","San Miguel",Botella,"33 cl",1.19,Dia,"Bebidas con alcohol",60
+"Cerveza especial extreme",8.6,Lata,"50 cl",1.45,Dia,"Bebidas con alcohol",61
+"Cerveza especial original",8.6,Lata,"50 cl",1.35,Dia,"Bebidas con alcohol",62
+"Cerveza rubia genuine draft",Miller,Botella,"33 cl",1.29,Dia,"Bebidas con alcohol",63
+"Cerveza especial indian ipa","La sagra",Botella,"33 cl",1.99,Dia,"Bebidas con alcohol",64
+"Cerveza ipa",Mahou,Lata,"33 cl",1.19,Dia,"Bebidas con alcohol",65
+"Cerveza brune",Leffe,Botella,"33 cl",2.19,Dia,"Bebidas con alcohol",66
+"Cerveza bourbon  Barrica",Mahou,Botella,"33 cl",2.35,Dia,"Bebidas con alcohol",67
+"Cerveza lager dunkel  Maestra",Mahou,Botella,"33 cl",1.45,Dia,"Bebidas con alcohol",68
+"Cerveza  Barrica",Mahou,Botella,"33 cl",1.99,Dia,"Bebidas con alcohol",69
+"Cerveza tostada doble lúpulo  Maestra",Mahou,Botella,"33 cl",1.39,Dia,"Bebidas con alcohol",70
+"Cerveza roja reserva",Alhambra,Botella,"4 x 33 cl",5.99,Dia,"Bebidas con alcohol",71
+"Cerveza mexicana",Coronita,Botella,"6 x 21 cl",5.69,Dia,"Bebidas con alcohol",72
+Cerveza,"Stella Artois",Botella,"33 cl",1.69,Dia,"Bebidas con alcohol",73
+"Cerveza red vintage",1906,Botella,"6 x 33 cl",7.55,Dia,"Bebidas con alcohol",74
+"Cerveza doble malta","Voll Damm",Botella,"6 x 25 cl",5.49,Dia,"Bebidas con alcohol",75
+"Cerveza especial sin gluten",Ambar,Botella,"33 cl",1.29,Dia,"Bebidas con alcohol",76
+"Cerveza extra  Selecta","San Miguel",Lata,"33 cl",1,Dia,"Bebidas con alcohol",77
+"Cerveza reserva especial",1906,Lata,"33 cl",1.09,Dia,"Bebidas con alcohol",78
+Gazpacho,"Al Punto",Brik,"1 l",1.95,Dia,"Conservas, caldos y cremas",79
+Salmorejo,"Al Punto",Brik,"1 l",2.39,Dia,"Conservas, caldos y cremas",80
+Gazpacho,"Al Punto",Brik,"3 x 330 ml",2.39,Dia,"Conservas, caldos y cremas",81
+"Gazpacho suave","Al Punto",Brik,"1 l",1.95,Dia,"Conservas, caldos y cremas",82
+"Muesli extra","Gran Dia",Caja,"500 g",1.95,Dia,"Cereales y galletas",83
+"Copos de avena","Gran Dia",Caja,"500 g",1,Dia,"Cereales y galletas",84
+"Muesli crujiente con chocolate","Gran Dia",Caja,"500 g",2.1,Dia,"Cereales y galletas",85
+"Cereales rellenos de leche","Gran Dia",Caja,"500 g",2.5,Dia,"Cereales y galletas",86
+"Cereales rellenos con chocolate y avena","Gran Dia",Caja,"500 g",2.1,Dia,"Cereales y galletas",87
+"Cereales copos de maíz corn flakes","Gran Dia",Caja,"500 g",1.45,Dia,"Cereales y galletas",88
+"Cereales copos de trigo, arroz y cebada con chocolate negro","Gran Dia",Caja,"300 g",1.88,Dia,"Cereales y galletas",89
+"Cereales copos de maíz corn flakes  Corn Flakes",Kellogg's,Caja,"500 g",3,Dia,"Cereales y galletas",90
+"Cereales de arroz inflado  Choco Krispies",Kellogg's,Caja,"420 g",3.55,Dia,"Cereales y galletas",91
+"Cereales de pétalos de trigo y chocolate","Gran Dia",Caja,"500 g",1.8,Dia,"Cereales y galletas",92
+"Cereales de trigo inflado con miel","Gran Dia",Caja,"500 g",1.95,Dia,"Cereales y galletas",93
+"Cereales integrales con chocolate  Chocapic",Nestlé,Caja,"375 g",3.19,Dia,"Cereales y galletas",94
+"Cereales copos de arroz y trigo integral cubiertos de chocolate","Gran Dia",Caja,"300 g",1.88,Dia,"Cereales y galletas",95
+"Barritas de cereales con chocolate con leche","Gran Dia",Caja,"150 g",1.49,Dia,"Cereales y galletas",96
+"Cereales de arroz inflado con chocolate","Gran Dia",Caja,"500 g",2.1,Dia,"Cereales y galletas",97
+"Cereales copos de arroz y trigo integral con frutos rojos","Gran Dia",Caja,"300 g",1.88,Dia,"Cereales y galletas",98
+"Barritas de cereales plátano y chocolate con leche","Gran Dia",Caja,"150 g",1.49,Dia,"Cereales y galletas",99
+"Cereales rellenos de cacao y avellana","Gran Dia",Caja,"500 g",2.1,Dia,"Cereales y galletas",100
+"Cereales copos de maíz tostados  Frosties",Kellogg's,Caja,"400 g",3.99,Dia,"Cereales y galletas",101
+"Cereales de bolas con chocolate","Gran Dia",Caja,"500 g",2.15,Dia,"Cereales y galletas",102
+"Barritas de cereales con chocolate nesquik",Nestlé,Caja,"150 g",2.99,Dia,"Cereales y galletas",103
+"Cereales integrales con chocolate negro  Fitness",Nestlé,Caja,"375 g",3.49,Dia,"Cereales y galletas",104
+"Barritas de cereales con chocolate con leche",Corny,Caja,"150 g",2.49,Dia,"Cereales y galletas",105
+"Cereales de trigo y maíz tostados con pepitas al cacao  Cookie Crisp",Nestlé,Caja,"375 g",3.59,Dia,"Cereales y galletas",106
+"Cereales copos de arroz, trigo integral y cebada","Gran Dia",Caja,"500 g",2.09,Dia,"Cereales y galletas",107
+"Cereales copos de trigo integral y arroz con virutas de chocolate con leche  Special K",Kellogg's,Caja,"335 g",3.45,Dia,"Cereales y galletas",108
+"Barritas de cereales con chocolate negro  Special K",Kellogg's,Caja,"129 g",3.7,Dia,"Cereales y galletas",109
+"Cereales integrales con chocolate nesquik",Nesquik,Caja,"375 g",3.69,Dia,"Cereales y galletas",110
+"Cereales copos de trigo integral fibre flakes","Gran Dia",Caja,"375 g",1.79,Dia,"Cereales y galletas",111
+"Barritas de cereales chocolateadas  Choco Krispies",Kellogg's,Caja,"120 g",3.35,Dia,"Cereales y galletas",112
+"Barritas de cereales con avellanas","Gran Dia",Caja,"150 g",1.49,Dia,"Cereales y galletas",113
+"Barritas de cereales con albaricoque, manzana y uvas pasas","Gran Dia",Caja,"150 g",1.49,Dia,"Cereales y galletas",114
+"Cereales integrales con chocolate  Fitness",Nestlé,Caja,"375 g",3.49,Dia,"Cereales y galletas",115
+"Cereales con frutas rojas  Special K",Kellogg's,Caja,"300 g",4.19,Dia,"Cereales y galletas",116
+"Cereales de copos de maíz con azúcar","Gran Dia",Caja,"500 g",2.05,Dia,"Cereales y galletas",117
+"Muesli crujiente con frutas","Gran Dia",Caja,"500 g",2.1,Dia,"Cereales y galletas",118
+"Muesli con frutas","Gran Dia",Bolsa,"1 Kg",2.3,Dia,"Cereales y galletas",119
+"Cereales de bolas de maíz con miel","Gran Dia",Caja,"500 g",2.35,Dia,"Cereales y galletas",120
+"Cereales copos de trigo con fruta y fibra","Gran Dia",Caja,"500 g",2.55,Dia,"Cereales y galletas",121
+"Barritas de cereales de bizcochitos con fruta y fibra  All-Bran",Kellogg's,Caja,"240 g",3.99,Dia,"Cereales y galletas",122
+"Surtido sushi  grande",Bento,Bandeja,"310 g",10.75,Mercadona,"Marisco y pescado",123
+"Surtido sushi  pequeño",Bento,Bandeja,"160 g",6.75,Mercadona,"Marisco y pescado",124
+"Surtido sushi  mix",Bento,Bandeja,"350 g",8.75,Mercadona,"Marisco y pescado",125
+"Noodles Yakisoba con carne y verduras",Hacendado,Bol,"300 g",4.5,Mercadona,"Marisco y pescado",126
+"Poke salmón",Hacendado,Bol,"400 g",5.5,Mercadona,"Marisco y pescado",127
+"Pollo teriyaki",Hacendado,Bol,"300 g",5,Mercadona,"Marisco y pescado",128
+Limones,Dia,Malla,"750 g",1.29,Dia,"Fruta y verduras",129
+Limón,Dia,Selección,"1 unidad",0.49,Dia,"Fruta y verduras",130
+"Limón bio",Dia,Malla,"500 g",0.99,Dia,"Fruta y verduras",131
+Pomelo,Dia,Selección,"1 unidad",0.59,Dia,"Fruta y verduras",132
+"Vino tinto","Castillo de Velasco",Brik,"1 l",1.05,Dia,"Bebidas con alcohol",133
+"Vino tinto crianza D.O. Valdepeñas","Viña Albalí",Botella,"75 cl",2.95,Dia,"Bebidas con alcohol",134
+"Vino tinto crianza D.O. Castilla La Mancha","Ribera de Algodor",Botella,"75 cl",1.65,Dia,"Bebidas con alcohol",135
+"Vino tinto  garrafa","Castillo de Velasco",Frasco,"2 l",2.6,Dia,"Bebidas con alcohol",136
+"Vino tinto joven D.O. La Mancha","Ribera de Algodor",Botella,"75 cl",1.45,Dia,"Bebidas con alcohol",137
+"Vino tinto roble D.O. Toro","Campo curero",Botella,"75 cl",2.99,Dia,"Bebidas con alcohol",138
+"Vino tinto roble D.O. Ribera del Duero","Arco del Sol",Botella,"75 cl",3.65,Dia,"Bebidas con alcohol",139
+"Vino tinto crianza D.O. Rioja",Cvne,Botella,"75 cl",6.95,Dia,"Bebidas con alcohol",140
+"Vino tinto roble D.O.  Altos de Tamarón","Ribera del Duero",Botella,"75 cl",6.4,Dia,"Bebidas con alcohol",141
+"Vino tinto","Carta de plata",Botella,"75 cl",3.59,Dia,"Bebidas con alcohol",142
+"Vino tinto","Castillo de Velasco",Botella,"75 cl",1.29,Dia,"Bebidas con alcohol",143
+"Vino tinto  garrafa","Valle rojo",Frasco,"5 l",5.2,Dia,"Bebidas con alcohol",144
+"Vino tinto reserva D.O. Valdepeñas","Viña Albalí",Botella,"75 cl",3.69,Dia,"Bebidas con alcohol",145
+"Vino tinto joven D.O. Rioja  Rivero",Faustino,Botella,"75 cl",3.99,Dia,"Bebidas con alcohol",146
+"Vino tinto reserva  Rivero",Faustino,Botella,"75 cl",2.09,Dia,"Bebidas con alcohol",147
+"Vino tinto D.O. Rioja","Señorío de Ondas",Botella,"75 cl",2.45,Dia,"Bebidas con alcohol",148
+"Vino tinto crianza D.O. Rioja","Castillo de Haro",Botella,"75 cl",4.19,Dia,"Bebidas con alcohol",149
+"Vino tinto roble D.O. Ribera del Duero","Heredad baran",Botella,"75 cl",4.95,Dia,"Bebidas con alcohol",150
+"Vino tinto sirah","Señorío de Ayerbe",Botella,"75 cl",2.85,Dia,"Bebidas con alcohol",151
+"Vino tinto","Habla de la tierra",Botella,"75 cl",8.25,Dia,"Bebidas con alcohol",152
+"Vino tinto crianza D.O. Madrid","Puerta de Alcalá",Botella,"75 cl",4.45,Dia,"Bebidas con alcohol",153
+"Vino tinto gran reserva D.O. Valdepeñas","Viña Albalí",Botella,"75 cl",4.49,Dia,"Bebidas con alcohol",154
+"Vino tinto crianza D.O. Ribera del Duero","Altos del Tamarón",Botella,"75 cl",7.45,Dia,"Bebidas con alcohol",155
+"Vino tinto D.O.  Viña Mayor","Ribera del Duero",Botella,"75 cl",7.75,Dia,"Bebidas con alcohol",156
+"Vino tinto","Cumbre de Gredos",Brik,"1 l",1.69,Dia,"Bebidas con alcohol",157
+"Vino tinto D.O. Valdepeñas",Molinos,Botella,"75 cl",2.35,Dia,"Bebidas con alcohol",158
+"Vino tinto crianza D.O. Rioja",Lagunilla,Botella,"75 cl",7.49,Dia,"Bebidas con alcohol",159
+"Vino tinto D.O. Tempranillo Altos de Tamarón","Marca no encontrada",Botella,"75 cl",2.99,Dia,"Bebidas con alcohol",160
+"Vino tinto D.O. Madrid","Puerta de Alcalá",Botella,"75 cl",5.75,Dia,"Bebidas con alcohol",161
+"Vino tinto crianza D.O. Rioja","Campo viejo",Botella,"75 cl",5.77,Dia,"Bebidas con alcohol",162
+"Vino tinto reserva D.O. Rioja","Señorío de Ondas",Botella,"75 cl",4.1,Dia,"Bebidas con alcohol",163
+"Vino tinto CVC D.O. Rioja  VII",Faustino,Botella,"75 cl",3.99,Dia,"Bebidas con alcohol",164
+"Vino tinto de la tierra de Extremadura   baginbox","Viña Tabora",Frasco,"3 l",4.99,Dia,"Bebidas con alcohol",165
+"Vino tinto D.O. Madrid","Puerta de Alcalá",Botella,"75 cl",3.09,Dia,"Bebidas con alcohol",166
+"Vino tinto D.O. Somontano","Viñas del Vero",Botella,"75 cl",6.1,Dia,"Bebidas con alcohol",167
+"Vino tinto crianza D.O Rioja","Señorío de Ondas",Botella,"75 cl",3.25,Dia,"Bebidas con alcohol",168
+"Vino tinto crianza D.O. Rioja",Beronia,Botella,"75 cl",8.99,Dia,"Bebidas con alcohol",169
+"Vino tinto","Don Simón",Brik,"1 l",1.6,Dia,"Bebidas con alcohol",170
+"Vino tinto crianza D.O. Rioja",Ederra,Botella,"75 cl",6.99,Dia,"Bebidas con alcohol",171
+"Vino tinto cabernet sauvignon IGP","Señorío de Ayerbe",Botella,"75 cl",2.9,Dia,"Bebidas con alcohol",172
+"Vino tinto crianza D.O. Navarra","Viña Ardanche",Botella,"75 cl",2.49,Dia,"Bebidas con alcohol",173
+"Vino tinto joven D.O. Rioja","Castillo de Haro",Botella,"75 cl",3.29,Dia,"Bebidas con alcohol",174
+"Vino tinto","Mucho mas",Botella,"75 cl",6.49,Dia,"Bebidas con alcohol",175
+"Vino tinto reserva D.O. La Mancha",Estola,Botella,"75 cl",3.89,Dia,"Bebidas con alcohol",176
+"Vino tinto de Ribera del Queiles","Garnacha salvaje moncayo",Botella,"75 cl",8.09,Dia,"Bebidas con alcohol",177
+"Vino tinto crianza D.O. Rioja","López de Haro",Botella,"75 cl",7.95,Dia,"Bebidas con alcohol",178
+"Vino tinto D.O. Toro",Matsu,Botella,"75 cl",7.99,Dia,"Bebidas con alcohol",179
+"Vino tinto roble D.O.  Valderivero","Ribera del Duero",Botella,"75 cl",6.99,Dia,"Bebidas con alcohol",180
+"Vino tinto joven D.O.  Valderivero","Ribera del Duero",Botella,"75 cl",5.9,Dia,"Bebidas con alcohol",181
+"Vino tinto mencia D.O. Monterrei",Mourama,Botella,"75 cl",4.59,Dia,"Bebidas con alcohol",182
+"Vino tinto crianza D.O. Ribera del Duero","Heredad baran",Botella,"75 cl",6.29,Dia,"Bebidas con alcohol",183
+"Vino tinto reserva D.O. Cariñena",Geraldino,Botella,"75 cl",2.79,Dia,"Bebidas con alcohol",184
+"Vino tinto crianza D.O. Cariñena",Geraldino,Botella,"75 cl",2.19,Dia,"Bebidas con alcohol",185
+"Vino tinto ecológico D.O. Jumilla",Sismicus,Botella,"75 cl",2.99,Dia,"Bebidas con alcohol",186
+"Vino tinto joven D.O. Jumilla",Sismicus,Botella,"75 cl",2.59,Dia,"Bebidas con alcohol",187
+"Vino tinto reserva D.O. La Mancha","Ribera de Algodor",Botella,"75 cl",2.29,Dia,"Bebidas con alcohol",188
+"Vino tinto tempranillo",Abstractio,Botella,"75 cl",2.85,Dia,"Bebidas con alcohol",189
+"Vino tinto reserva D.O. Utiel Requena",Mirandoli,Botella,"75 cl",2.39,Dia,"Bebidas con alcohol",190
+"Vino tinto crianza D.O. Utiel Requena",Mirandoli,Botella,"75 cl",2.29,Dia,"Bebidas con alcohol",191
+"Vino tinto tempranillo syrah","Pinta en Copas",Botella,"75 cl",1.99,Dia,"Bebidas con alcohol",192
+"Vino tinto reserva D.O. Ribera del Duero","Arco del Sol",Botella,"75 cl",5.99,Dia,"Bebidas con alcohol",193
+"Vino tinto crianza D.O. Ribera del Duero","Arco del Sol",Botella,"75 cl",4.49,Dia,"Bebidas con alcohol",194
+"Vino tinto crianza D.O. Valdepeñas","Viña Danza",Botella,"75 cl",2.19,Dia,"Bebidas con alcohol",195
+"Vino tinto joven D.O. Valdepeñas","Viña Danza",Botella,"75 cl",1.79,Dia,"Bebidas con alcohol",196
+"Vino tinto reserva D.O. Rioja","Castillo de Haro",Botella,"75 cl",6.99,Dia,"Bebidas con alcohol",197
+"Vino tinto joven madurado D.O. Rioja","Castillo de Haro",Botella,"75 cl",3.89,Dia,"Bebidas con alcohol",198
+"Vino tinto reserva D.O. Valdepeñas","Viña Danza",Botella,"75 cl",2.69,Dia,"Bebidas con alcohol",199
+"Vino tinto viñas viejas D.O Toro","Campo curero",Botella,"75 cl",5.09,Dia,"Bebidas con alcohol",200
+"Vino tinto D.O Rioja",Berberana,Botella,"750 ml",7.29,Dia,"Bebidas con alcohol",201
+"Vino tinto do cádiz","Finca Moncloa",Botella,"75 cl",16.25,Dia,"Bebidas con alcohol",202
+"Vino tinto","Mayor de Castilla",Botella,"75 cl",3.3,Dia,"Bebidas con alcohol",203
+"Vino tinto merlot","Señorío de Ayerbe",Botella,"75 cl",2.85,Dia,"Bebidas con alcohol",204
+"Vino tinto gran reserva D.O. Rioja","Señorío de Ondas",Botella,"75 cl",7.99,Dia,"Bebidas con alcohol",205
+"Vino tinto D.O. Rioja",Beronia,Botella,"75 cl",16.25,Dia,"Bebidas con alcohol",206
+"Vino tinto D.O. Ribera del Duero",Celeste,Botella,"75 cl",9.35,Dia,"Bebidas con alcohol",207
+"Vino tinto de la tierra de Castila",Berberana,Botella,"75 cl",4.89,Dia,"Bebidas con alcohol",208
+"Vino tinto D.O. Penedés","Solell de Flix",Botella,"75 cl",2.79,Dia,"Bebidas con alcohol",209
+"Vino tinto reserva D.O. Rioja","Viña Pomal",Botella,"75 cl",14.95,Dia,"Bebidas con alcohol",210
+"Vino tinto crianza D.O. Rioja",Glorioso,Botella,"75 cl",7.95,Dia,"Bebidas con alcohol",211
+"Vino tinto crianza D.O. Ribera del Duero",Matarromera,Botella,"75 cl",24.59,Dia,"Bebidas con alcohol",212
+"Vino tinto roble D.O.","Ribera del Duero",Botella,"75 cl",9.65,Dia,"Bebidas con alcohol",213
+"Vino tinto D.O. Toro",Bajoz,Botella,"75 cl",5.25,Dia,"Bebidas con alcohol",214
+"Vino tinto gran reserva D.O. Rioja",Faustino,Botella,"75 cl",19.99,Dia,"Bebidas con alcohol",215
+"Vino tinto crianza D.O. Rioja",Azpilicueta,Botella,"75 cl",8.75,Dia,"Bebidas con alcohol",216
+"Vino tinto roble D.O. Ribera del Duero",Legaris,Botella,"75 cl",8.95,Dia,"Bebidas con alcohol",217
+"Vino tinto crianza D.O. Ribera del Duero",Protos,Botella,"75 cl",19.95,Dia,"Bebidas con alcohol",218
+"Vino tinto crianza D.O Rioja","Ramón Bilbao",Botella,"75 cl",9.99,Dia,"Bebidas con alcohol",219
+"Vino tinto crianza D.O. Valdepeñas","Señorío de Los Llanos",Botella,"75 cl",2.99,Dia,"Bebidas con alcohol",220
+"Vino tinto reserva D.O. Ribera del Duero","Altos del Tamarón",Botella,"75 cl",9.95,Dia,"Bebidas con alcohol",221
+"Vino tinto","Federico Paternina",Botella,"  75 cl",6.79,Dia,"Bebidas con alcohol",222
+"Vino tinto reserva D.O. Rioja","Coto de Imaz",Botella,"75 cl",7.95,Dia,"Bebidas con alcohol",223
+"Vino tinto D.O. Campo de Borja",Borsao,Botella,"75 cl",2.99,Dia,"Bebidas con alcohol",224
+"Vino tinto roble D.O. Ribera del Duero",Protos,Botella,"75 cl",9.5,Dia,"Bebidas con alcohol",225
+"Vino tinto D.O. Navarra","Viña Ardanche",Botella,"75 cl",1.99,Dia,"Bebidas con alcohol",226
+"Vino tinto crianza D.O. Rioja","Marqués de Caceres",Botella,"75 cl",7.9,Dia,"Bebidas con alcohol",227
+"Vino tinto CVC D.O. Rioja","Campo viejo",Botella,"75 cl",4.27,Dia,"Bebidas con alcohol",228
+"Vino tinto D.O. Toro",Bajoz,Botella,"75 cl",3.69,Dia,"Bebidas con alcohol",229
+"Vino tinto crianza do rioja",Antaño,Botella,"75 cl",4.99,Dia,"Bebidas con alcohol",230
+"Vino tinto roble D.O. Ribera del Duero","Mayor de Castilla",Botella,"75 cl",6.49,Dia,"Bebidas con alcohol",231
+"Vino tinto crianza D.O. Rioja  Rivero",Faustino,Botella,"75 cl",5.75,Dia,"Bebidas con alcohol",232
+"Vino tinto D.O. Rioja","Castillo de Albai",Botella,"75 cl",2.78,Dia,"Bebidas con alcohol",233
+"Vino tinto D.O. Cataluña","Sangre toro",Botella,"75 cl",5.39,Dia,"Bebidas con alcohol",234
+"Vino tinto crianza D.O. Rioja","El coto",Botella,"75 cl",5.95,Dia,"Bebidas con alcohol",235
+Aguacate,Dia,Bandeja,"450 g",1.69,Dia,"Fruta y verduras",236
+Kiwi,Dia,Bandeja,"700 g",2.29,Dia,"Fruta y verduras",237
+Mango,Dia,Bandeja,"650 g",2.59,Dia,"Fruta y verduras",238
+Guacamole,"Al Punto Dia",Tarrina,"200 g",1.69,Dia,"Fruta y verduras",239
+Aguacate,Dia,Granel,"750 g",3.74,Dia,"Fruta y verduras",240
+Kiwi,Zespri,Bandeja,"500 g",2.99,Dia,"Fruta y verduras",241
+"Coco troceado bio",Dia,Bolsa,"56 g",0.95,Dia,"Fruta y verduras",242
+Kiwi,Dia,Selección,"1 unidad",0.55,Dia,"Fruta y verduras",243
+"Piña gold premium unidad aprox.",Dia,Unidad,"2 Kg",4.38,Dia,"Fruta y verduras",244
+Mango,Dia,Unidad,"1 unidad",1.99,Dia,"Fruta y verduras",245
+"Pulpa aguacate","Al Punto Dia",Tarrina,"125 g",1.45,Dia,"Fruta y verduras",246
+"Aguacate bio",Dia,Bandeja,"400 g",2.79,Dia,"Fruta y verduras",247
+Guacamole,"Al Punto Dia",Tarrina,"400 g",2.95,Dia,"Fruta y verduras",248
+"Piña Baby",Dia,Unidad,"1 unidad",2,Dia,"Fruta y verduras",249
+"Filetes de anchoa en aceite de girasol",Hacendado,Filetes,"3 bandejas x 29 g",2.1,Mercadona,"Conservas, caldos y cremas",250
+"Boquerones en vinagre  en aceite de girasol",Hacendado,Bandeja,"80 g (60 g escurrido)",1.75,Mercadona,"Conservas, caldos y cremas",251
+"Boquerones al vinagre  en aceite de girasol",Hacendado,Tarrina,"330 g (265 g escurrido)",5.8,Mercadona,"Conservas, caldos y cremas",252
+"Filetes de anchoa en aceite de oliva",Hacendado,Lata,"42 g (29 g escurrido)",1.25,Mercadona,"Conservas, caldos y cremas",253
+"Filetes de anchoa en aceite de oliva",Hacendado,Filetes,"3 bandejas x 29 g",3.05,Mercadona,"Conservas, caldos y cremas",254
+"Filetes de sardina anchoada  en aceite de girasol",Hacendado,Bandeja,"80 g (60 g escurrido)",1.6,Mercadona,"Conservas, caldos y cremas",255
+"Migas de bacalao desaladas",Hacendado,Bandeja,"300 g",6.55,Mercadona,"Marisco y pescado",256
+"Filetes de sardina marinada  en aceite de oliva virgen extra",Hacendado,Bandeja,"80 g (50 g escurrido)",1.4,Mercadona,"Marisco y pescado",257
+"Sucedáneo de caviar negro","Ubago Caviartic",Tarro,"75 g",1.85,Mercadona,"Marisco y pescado",258
+"Filetes de anchoa en aceite de oliva",Hacendado,Bandeja,"140 g (110 g escurrido)",6.7,Mercadona,"Conservas, caldos y cremas",259
+"Filetes de anchoa en aceite de oliva",Hacendado,Lata,"74 g (50 g escurrido)",3.75,Mercadona,"Conservas, caldos y cremas",260
+"Mojama de atún superior en taco  seca salada",Hacendado,Paquete,"200 g aprox.",8,Mercadona,"Marisco y pescado",261
+"Boquerones aliñados",Hacendado,Bandeja,"80 g (60 g escurrido)",1.8,Mercadona,"Marisco y pescado",262
+"Migas de bacalao saladas",Hacendado,Bandeja,"250 g",5.55,Mercadona,"Marisco y pescado",263
+"Trozos de bacalao salado",Hacendado,Paquete,"400 g",4.55,Mercadona,"Marisco y pescado",264
+"Hoja de bacalao",Hacendado,Paquete,"800 g aprox.",13.92,Mercadona,Congelados,265
+"Salmón ahumado",Hacendado,Paquete,"100 g aprox.",3.8,Mercadona,"Marisco y pescado",266
+"Salmón ahumado",Hacendado,Filetes,"2 paquetes x 150 g",10.8,Mercadona,"Marisco y pescado",267
+"Bacalao ahumado  en aceite de girasol",Hacendado,Bandeja,"110 g (80 g escurrido)",3.2,Mercadona,"Marisco y pescado",268
+"Salmón marinado",Hacendado,Paquete,"80 g",3.5,Mercadona,"Marisco y pescado",269
+"Filetes de sardina ahumada  en aceite de girasol",Hacendado,Bandeja,"85 g (65 g escurrido)",2,Mercadona,"Marisco y pescado",270
+"Taquitos de salmón ahumado",Hacendado,Paquete,"100 g",3.8,Mercadona,"Marisco y pescado",271
+Whisky,Dyc,Botella,"1 l",15.25,Dia,"Bebidas con alcohol",272
+"Ron añejo",Barceló,Botella,"70 cl",15.45,Dia,"Bebidas con alcohol",273
+Whisky,Ballantines,Botella,"70 cl",12.95,Dia,"Bebidas con alcohol",274
+"Ron añejo",Brugal,Botella,"70 cl",15.7,Dia,"Bebidas con alcohol",275
+Whisky,J&b,Botella,"70 cl",13.49,Dia,"Bebidas con alcohol",276
+"Ron añejo",Velero,Botella,"70 cl",5.95,Dia,"Bebidas con alcohol",277
+"Ron añejo",Negrita,Botella,"50 cl",6.99,Dia,"Bebidas con alcohol",278
+Whisky,"Burned barrel",Botella,"70 cl",5.99,Dia,"Bebidas con alcohol",279
+"Whisky red label","Johnnie Walker",Botella,"70 cl",15.99,Dia,"Bebidas con alcohol",280
+"Whisky escocés",Douregal,Botella,"  70 cl",6,Dia,"Bebidas con alcohol",281
+"Ron dominicano viejo",Velero,Botella,"70 cl",8.69,Dia,"Bebidas con alcohol",282
+"Whisky black label","Johnnie Walker",Botella,"70 cl",29.99,Dia,"Bebidas con alcohol",283
+"Whisky white label",Dewars,Botella,"70 cl",13.49,Dia,"Bebidas con alcohol",284
+"Whisky tenessee","Jack Daniel's",Botella,"70 cl",23.25,Dia,"Bebidas con alcohol",285
+"Ron blanco superior",Bacardi,Botella,"70 cl",13.99,Dia,"Bebidas con alcohol",286
+"Ron de coco",Malibú,Botella,"70 cl",12.59,Dia,"Bebidas con alcohol",287
+"Ron añejo",Cacique,Botella,"70 cl",14.49,Dia,"Bebidas con alcohol",288
+Whisky,Dyc,Botella,"  70 cl",14.09,Dia,"Bebidas con alcohol",289
+Whisky,"William Lawson's",Botella,"70 cl",9.99,Dia,"Bebidas con alcohol",290
+"Ron blanco",Velero,Botella,"70 cl",5.25,Dia,"Bebidas con alcohol",291
+"Whisky bourbon","Jim Beam",Botella,"70 cl",15.45,Dia,"Bebidas con alcohol",292
+Whisky,"The singleton",Botella,"  70 cl",29.99,Dia,"Bebidas con alcohol",293
+"Whisky japanese smooth",Dewars,Botella,"70 cl",17.99,Dia,"Bebidas con alcohol",294
+Whisky,Seagram's,Botella,"70 cl",15.39,Dia,"Bebidas con alcohol",295
+Whisky,Douregal,Botella,"  70 cl",8.99,Dia,"Bebidas con alcohol",296
+Whisky,Fireball,Botella,"70 cl",14.49,Dia,"Bebidas con alcohol",297
+Mojito,Caribica,Botella,"70 cl",4.99,Dia,"Bebidas con alcohol",298
+"Whisky escocés blended",Ballantines,Botella,"  70 cl",20.99,Dia,"Bebidas con alcohol",299
+"Whisky americano",Wordens,Botella,"70 cl",9.99,Dia,"Bebidas con alcohol",300
+"Whisky Tennessee honey","Jack Daniel's",Botella,"70 cl",23.25,Dia,"Bebidas con alcohol",301
+"Ron añejo","Santa Teresa",Botella,"70 cl",17.39,Dia,"Bebidas con alcohol",302
+Whisky,Passport,Botella,"70 cl",11.99,Dia,"Bebidas con alcohol",303
+Whisky,Chivas,Botella,"  70 cl",29.99,Dia,"Bebidas con alcohol",304
+"Pera conferencia",Dia,Bandeja,"1 Kg",2.19,Dia,"Fruta y verduras",305
+"Pera ercolini",Dia,Bandeja,"500 g",1.79,Dia,"Fruta y verduras",306
+"Pera Rincón de Soto D.O.P.",Dia,Granel,"800 g",2.23,Dia,"Fruta y verduras",307
+"Preparado de paella y sopa  ultracongelado",Hacendado,Paquete,"685 g escurrido",4.1,Mercadona,Congelados,308
+"Arreglo para paella de marisco",Hacendado,Bandeja,"850 g aprox.",8.44,Mercadona,Congelados,309
+"Gambón congelado",Hacendado,Granel,"150 g aprox.",1.49,Mercadona,Congelados,310
+"Gambón grande congelado",Hacendado,Caja,"2 kg",17.9,Mercadona,Congelados,311
+"Alistado mediano congelado",Hacendado,Granel,"150 g aprox.",4.34,Mercadona,Congelados,312
+"Alistado mediano  congelado",Hacendado,Caja,"1 kg aprox.",27.95,Mercadona,Congelados,313
+"Langostino cocido",Hacendado,Granel,"150 g aprox.",1.64,Mercadona,"Marisco y pescado",314
+"Langostino crudo ultracongelado",Hacendado,Granel,"150 g aprox.",1.64,Mercadona,Congelados,315
+"Langostino crudo Pescanova ultracongelado",Hacendado,Caja,"1 kg",10.25,Mercadona,Congelados,316
+"Langostino cocido",Hacendado,Bandeja,"600 g",6.6,Mercadona,"Marisco y pescado",317
+"Gamba arrocera  congelada",Hacendado,Granel,"150 g aprox.",2.24,Mercadona,Congelados,318
+"Gamba blanca pequeña  congelada",Hacendado,Caja,"1 kg aprox.",13.95,Mercadona,Congelados,319
+"Gamba blanca cocida",Hacendado,Bandeja,"300 g",7.3,Mercadona,"Marisco y pescado",320
+"Gamba pelada cruda tamaño mediano  ultracongelada",Hacendado,Paquete,"360 g escurrido",4.95,Mercadona,Congelados,321
+"Gamba pelada cruda tamaño grande  ultracongelada",Hacendado,Paquete,"360 g escurrido",5.95,Mercadona,Congelados,322
+"Camarón boreal cocido y pelado  ultracongelado","Royal Greenland",Paquete,"200 g",4.25,Mercadona,Congelados,323
+"Langostino cocido y pelado  ultracongelado",Hacendado,Bandeja,"220 g escurrido",4.75,Mercadona,Congelados,324
+"Langostino crudo y pelado  ultracongelado",Hacendado,Bandeja,"220 g escurrido",3.95,Mercadona,Congelados,325
+"Colas de gambón crudo  congelado",Hacendado,Bandeja,"250 g",6.55,Mercadona,Congelados,326
+"Salpicón de marisco",Hacendado,Bandeja,"400 g",4.95,Mercadona,"Marisco y pescado",327
+"Carne de mejillón de Chile cocido  ultracongelado",Hacendado,Paquete,"275 g escurrido",2.4,Mercadona,Congelados,328
+"Almeja japonesa",Hacendado,Malla,"500 g",11.05,Mercadona,"Marisco y pescado",329
+"Almeja  congelada",Hacendado,Paquete,"450 g",1.7,Mercadona,Congelados,330
+Berberechos,Hacendado,Malla,"500 g",5.95,Mercadona,"Marisco y pescado",331
+Navajas,Hacendado,Malla,"500 g",3.95,Mercadona,"Marisco y pescado",332
+Cañaílla,Hacendado,Malla,"500 g",2.9,Mercadona,"Marisco y pescado",333
+"Mejillón Clóchina",Hacendado,Malla,"1 kg",4.95,Mercadona,"Marisco y pescado",334
+Chirla,Hacendado,Malla,"500 g",4.35,Mercadona,"Marisco y pescado",335
+Coquina,Hacendado,Malla,"500 g",11.5,Mercadona,"Marisco y pescado",336
+"Palitos de surimi",Hacendado,Paquete,"460 g",1.99,Mercadona,"Marisco y pescado",337
+"Palitos de surimi  ultracongelados",Hacendado,Paquete,"32 ud. (600 g)",2.35,Mercadona,Congelados,338
+"Muslitos de surimi  ultracongelados",Hacendado,Paquete,"450 g",2.6,Mercadona,Congelados,339
+"Caracoles precocidos  ultracongelados",Hacendado,Paquete,"350 g",2.95,Mercadona,Congelados,340
+"Delicias del mar de surimi",Hacendado,Bandeja,"250 g",1.99,Mercadona,"Marisco y pescado",341
+Frambuesas,Dia,Bandeja,"125 g",1.99,Dia,"Fruta y verduras",342
+Arándano,Dia,Vaso,"170 g",2.19,Dia,"Fruta y verduras",343
+Arándano,Dia,Bandeja,"300 g",2.99,Dia,"Fruta y verduras",344
+"Uva blanca sin semilla",Dia,Bandeja,"500 g",2.99,Dia,"Fruta y verduras",345
+"Uva roja sin semilla",Dia,Bandeja,"500 g",2.99,Dia,"Fruta y verduras",346
+Ginebra,Larios,Botella,"1 l",12.99,Dia,"Bebidas con alcohol",347
+"Ginebra london dry",Beefeater,Botella,"70 cl",13.95,Dia,"Bebidas con alcohol",348
+Ginebra,Seagram's,Botella,"70 cl",16.45,Dia,"Bebidas con alcohol",349
+"Vodka cinco destilaciones",Mikanoff,Botella,"1 l",6.7,Dia,"Bebidas con alcohol",350
+Vodka,Absolut,Botella,"70 cl",14.99,Dia,"Bebidas con alcohol",351
+Ginebra,Barmon's,Botella,"70 cl",5.99,Dia,"Bebidas con alcohol",352
+"Ginebra sabor fresa",Barmon's,Botella,"70 cl",7.7,Dia,"Bebidas con alcohol",353
+"Vodka con sabor a caramelo",Mikanoff,Botella,"70 cl",5.69,Dia,"Bebidas con alcohol",354
+"Ginebra London dry",Tanqueray,Botella,"70 cl",17.49,Dia,"Bebidas con alcohol",355
+"Ginebra sabor fresa","Puerto de Indias",Botella,"70 cl",16.45,Dia,"Bebidas con alcohol",356
+Ginebra,Nordes,Botella,"70 cl",26.49,Dia,"Bebidas con alcohol",357
+"Bebida sin alcohol",Seagram's,Botella," 1 l",12.39,Dia,"Bebidas sin alcohol",358
+"Ginebra premium",Larios,Botella," 70 cl",16.55,Dia,"Bebidas con alcohol",359
+Ginebra,Bombay,Botella,"70 cl",19.95,Dia,"Bebidas con alcohol",360
+Ginebra,Gordon's,Botella,"70 cl",10.99,Dia,"Bebidas con alcohol",361
+"Ginebra cítrica",Barmon's,Botella,"70 cl",8.49,Dia,"Bebidas con alcohol",362
+"Ginebra sabor fresa  Rosé",Larios,Botella,"70 cl",16.55,Dia,"Bebidas con alcohol",363
+"Bebida espirituosa sin alcohol",Tanqueray,Botella,"  70 cl",15.99,Dia,"Bebidas sin alcohol",364
+Vodka,Eristoff,Botella,"70 cl",11.29,Dia,"Bebidas con alcohol",365
+Vodka,Smirnoff,Botella,"70 cl",11.29,Dia,"Bebidas con alcohol",366
+"Ginebra con sabor a limón mediterráneo",Bombay,Botella,"70 cl",21.95,Dia,"Bebidas con alcohol",367
+"Pink vodka",Eristoff,Botella,"70 cl",11.99,Dia,"Bebidas con alcohol",368
+Ginebra,Narisara,Botella,"70 cl",8.99,Dia,"Bebidas con alcohol",369
+"Ginebra japonesa",Roku,Botella,"70 cl",24.99,Dia,"Bebidas con alcohol",370
+"Ginebra nº ten",Tanqueray,Frasco,"0.7 l",33.99,Dia,"Bebidas con alcohol",371
+Ginebra,Bulldog,Botella,"70 cl",23.99,Dia,"Bebidas con alcohol",372
+Vodka,Finlandia,Botella,"70 cl",14.99,Dia,"Bebidas con alcohol",373
+Vodka,Moskovskaya,Botella,"70 cl",10.89,Dia,"Bebidas con alcohol",374
+"Vino blanco","Castillo de Velasco",Brik,"1 l",0.95,Dia,"Bebidas con alcohol",375
+"Vino blanco verdejo viura D.O. Rueda","Vega del Báron",Botella,"75 cl",2.09,Dia,"Bebidas con alcohol",376
+"Vino blanco","Don Simón",Brik,"3 x 18.7 cl",1.5,Dia,"Bebidas con alcohol",377
+"Vino blanco verdejo frizzante",Condominium,Botella,"75 cl",2.65,Dia,"Bebidas con alcohol",378
+"Vino blanco","Castillo de Velasco",Botella,"75 cl",1.29,Dia,"Bebidas con alcohol",379
+"Vino blanco suave y afrutado",Oceanus,Botella,"75 cl",2.19,Dia,"Bebidas con alcohol",380
+"Vino blanco verdejo D.O. Rueda","Vega del Báron",Botella,"75 cl",2.1,Dia,"Bebidas con alcohol",381
+"Vino blanco  garrafa","Castillo de Velasco",Frasco,"2 l",2.6,Dia,"Bebidas con alcohol",382
+"Vino blanco verdejo D.O. Rueda",Veliterra,Botella,"75 cl",3.55,Dia,"Bebidas con alcohol",383
+"Vino blanco","Don Simón",Brik,"1 l",1.6,Dia,"Bebidas con alcohol",384
+"Vino chardonnay D.O. Castilla","Señorío de Ayerbe",Botella,"75 cl",2.59,Dia,"Bebidas con alcohol",385
+"Vino blanco D.O. Rueda",Blume,Botella,"75 cl",5.25,Dia,"Bebidas con alcohol",386
+"Vino blanco frizzante",Condominium,Botella,"  75 cl",2.49,Dia,"Bebidas con alcohol",387
+"Vino de cocina D.O. Montilla-Moriles","Castillo de Velasco",Botella,"75 cl",2.35,Dia,"Bebidas con alcohol",388
+"Vino blanco verdejo","Viña Albalí",Botella,"75 cl",3.39,Dia,"Bebidas con alcohol",389
+"Vino blanco joven D.O. Rueda",Blume,Botella,"75 cl",2.99,Dia,"Bebidas con alcohol",390
+"Vino blanco semidulce D.O. Rioja","Señorío de Ondas",Botella,"75 cl",2.99,Dia,"Bebidas con alcohol",391
+"Vino fino D.O. Montilla Moriles",Singular,Botella,"75 cl",2.85,Dia,"Bebidas con alcohol",392
+"Vino blanco de la tierra",Barbadillo,Botella,"75 cl",4.75,Dia,"Bebidas con alcohol",393
+"Vino blanco semidulce D.O. Rioja",Diamante,Botella,"75 cl",3.95,Dia,"Bebidas con alcohol",394
+"Vino blanco","Cumbre de Gredos",Brik,"1 l",1.69,Dia,"Bebidas con alcohol",395
+"Vino blanco verdejo D.O. Valdepeñas",Molinos,Botella,"75 cl",2.35,Dia,"Bebidas con alcohol",396
+"Vino blanco semidulce D.O. Penedés",Bach,Botella,"75 cl",4.95,Dia,"Bebidas con alcohol",397
+"Vino fino seco D.O. Jerez","Tío Pepe",Botella,"75 cl",7.3,Dia,"Bebidas con alcohol",398
+"Vino blanco semidulce D.O. Rioja","Faustino Rivero",Botella,"75 cl",4.49,Dia,"Bebidas con alcohol",399
+"Vino blanco tempranillo D.O. Rioja","Castillo de Haro",Botella,"75 cl",3.49,Dia,"Bebidas con alcohol",400
+"Vino blanco semidulce",Libalis,Botella,"75 cl",6.8,Dia,"Bebidas con alcohol",401
+"Vino blanco treixadura D.O. Ribeiro","Gran leiriña",Botella,"75 cl",11,Dia,"Bebidas con alcohol",402
+"Vino blanco D.O. Madrid","Puerta de Alcalá",Botella,"75 cl",3.09,Dia,"Bebidas con alcohol",403
+"Vino blanco D.O. Rías Baixas",Serantello,Botella,"75 cl",7.45,Dia,"Bebidas con alcohol",404
+"Vino blanco txakoli D.O. getariako txacolina",Ameztoi,Botella,"75 cl",8.19,Dia,"Bebidas con alcohol",405
+"Vino blanco","Dulce María",Botella,"75 cl",3.89,Dia,"Bebidas con alcohol",406
+"Vino blanco espumoso D.O. Valencia",Sandara,Botella,"75 cl",5.99,Dia,"Bebidas con alcohol",407
+"Vino blanco","Habla de ti",Botella,"75 cl",11.45,Dia,"Bebidas con alcohol",408
+"Vino blanco D.O. Ribeiro",Mourama,Botella,"75 cl",5.49,Dia,"Bebidas con alcohol",409
+"Vino blanco godello D.O. Monterrei",Mourama,Botella,"75 cl",6.49,Dia,"Bebidas con alcohol",410
+"Vino blanco albariño D.O. Rías Baixas",Mourama,Botella,"75 cl",7.99,Dia,"Bebidas con alcohol",411
+"Vino blanco afrutado","Faustino Rivero",Botella,"75 cl",4.25,Dia,"Bebidas con alcohol",412
+"Vino blue frizzante",Condominium,Botella,"  75 cl",2.49,Dia,"Bebidas con alcohol",413
+"Vino blanco viura-sauvignon","Pinta en Copas",Botella,"75 cl",1.99,Dia,"Bebidas con alcohol",414
+"Vino blanco sauvignon D.O. Rueda",Rioseco,Botella,"75 cl",4.49,Dia,"Bebidas con alcohol",415
+"Vino blanco verdejo D.O. Rueda",Rioseco,Botella,"75 cl",4.49,Dia,"Bebidas con alcohol",416
+"Vino blanco Pedro Ximénez D.O. Jerez",Topaz,Botella,"75 cl",7.65,Dia,"Bebidas con alcohol",417
+"Vino blanco chardonnay D.O. Navarra","Viña Ardanche",Botella,"75 cl",2.45,Dia,"Bebidas con alcohol",418
+"Vino blanco D.O. Rioja","Señorío de Ondas",Botella,"75 cl",2.59,Dia,"Bebidas con alcohol",419
+"Vino blanco D.O. Valdepeñas","Viña Danza",Botella,"75 cl",1.69,Dia,"Bebidas con alcohol",420
+"Vino espumoso blue moscato","Don Luciano",Botella,"75 cl",2.79,Dia,"Bebidas con alcohol",421
+"Vino blanco albariño D.O. Rías Baixas","Mar de Frades",Botella,"75 cl",18.9,Dia,"Bebidas con alcohol",422
+"Vino blanco verdejo D.O. Castilla","Faustino Rivero",Botella,"75 cl",4.25,Dia,"Bebidas con alcohol",423
+"Vino blanco verdejo D.O. Rueda",Beronia,Botella,"75 cl",8.39,Dia,"Bebidas con alcohol",424
+"Vino blanco de uva moscatel",Geraldino,Botella,"75 cl",3.6,Dia,"Bebidas con alcohol",425
+"Vino manzanilla","Muy fina",Botella,"75 cl",4.75,Dia,"Bebidas con alcohol",426
+"Vino blanco D.O. Somontano","Viñas del Vero",Botella,"75 cl",6.1,Dia,"Bebidas con alcohol",427
+"Vino blanco verdejo D.O. Rueda","Mayor de Castilla",Botella,"75 cl",3.99,Dia,"Bebidas con alcohol",428
+"Vino blanco rioja","El coto",Botella,"75 cl",3.95,Dia,"Bebidas con alcohol",429
+"Vino blanco verdejo D.O. Rueda",Cvne,Botella,"75 cl",5.95,Dia,"Bebidas con alcohol",430
+"Vino blanco verdejo D.O. Rueda",Protos,Botella,"75 cl",7.65,Dia,"Bebidas con alcohol",431
+"Vino blanco semidulce D.O. Penedés","Solell de Flix",Botella,"75 cl",3.29,Dia,"Bebidas con alcohol",432
+"Vino blanco",Pescador,Botella,"75 cl",4.25,Dia,"Bebidas con alcohol",433
+"Vino blanco verdejo D.O. Rueda",Emina,Botella,"75 cl",6.95,Dia,"Bebidas con alcohol",434
+"Vino blanco verdejo D.O. Rueda","Cuatro rayas",Botella,"75 cl",5.29,Dia,"Bebidas con alcohol",435
+"Leche semidesnatada",Hacendado,Minipack,"6 bricks x 1 L",4.98,Mercadona,"Leche y yogures",436
+"Leche semidesnatada",Hacendado,Brick,"1 L",0.83,Mercadona,"Leche y yogures",437
+"Leche semidesnatada",Hacendado,Minipack,"6 mini bricks x 200 ml",1.53,Mercadona,"Leche y yogures",438
+"Leche semidesnatada",Hacendado,Minipack,"6 botellas x 1,5 L",8.46,Mercadona,"Leche y yogures",439
+"Leche semidesnatada",Hacendado,Botella,"1,5 L",1.41,Mercadona,"Leche y yogures",440
+"Leche semidesnatada sin lactosa",Hacendado,Minipack,"6 bricks x 1 L",5.46,Mercadona,"Leche y yogures",441
+"Leche semidesnatada sin lactosa",Hacendado,Brick,"1 L",0.91,Mercadona,"Leche y yogures",442
+"Leche semidesnatada sin lactosa",Hacendado,Minipack,"6 mini bricks x 200 ml",1.69,Mercadona,"Leche y yogures",443
+"Leche semidesnatada calcio",Hacendado,Minipack,"6 bricks x 1 L",5.76,Mercadona,"Leche y yogures",444
+"Leche semidesnatada calcio",Hacendado,Brick,"1 L",0.96,Mercadona,"Leche y yogures",445
+"Leche semidesnatada",Asturiana,Minipack,"6 botellas x 1,5 L",10.5,Mercadona,"Leche y yogures",446
+"Leche semidesnatada",Asturiana,Botella,"1,5 L",1.75,Mercadona,"Leche y yogures",447
+"Leche semidesnatada calcio",Puleva,Minipack,"6 bricks x 1 L",8.94,Mercadona,"Leche y yogures",448
+"Leche semidesnatada calcio",Puleva,Brick,"1 L",1.49,Mercadona,"Leche y yogures",449
+"Bebida láctea semidesnatada con fibra",Hacendado,Minipack,"6 bricks x 1 L",7.5,Mercadona,"Leche y yogures",450
+"Bebida láctea semidesnatada con fibra",Hacendado,Brick,"1 L",1.25,Mercadona,"Leche y yogures",451
+"Leche semidesnatada de cabra",Hacendado,Minipack,"6 bricks x 1 L",10.8,Mercadona,"Leche y yogures",452
+"Leche semidesnatada de cabra",Hacendado,Brick,"1 L",1.8,Mercadona,"Leche y yogures",453
+"Leche semidesnatada fresca",Hacendado,Botella,"1 L",1.04,Mercadona,"Leche y yogures",454
+"Leche semidesnatada sin lactosa",Hacendado,Minipack,"6 botellas x 1,5 L",9.18,Mercadona,"Leche y yogures",455
+"Leche semidesnatada sin lactosa",Hacendado,Botella,"1,5 L",1.53,Mercadona,"Leche y yogures",456
+"Leche semidesnatada",Puleva,Minipack,"6 bricks x 1 L",6,Mercadona,"Leche y yogures",457
+"Leche semidesnatada",Puleva,Minipack,"1 L",1,Mercadona,"Leche y yogures",458
+"Leche desnatada",Hacendado,Minipack,"6 bricks x 1 L",4.8,Mercadona,"Leche y yogures",459
+"Leche desnatada",Hacendado,Brick,"1 L",0.8,Mercadona,"Leche y yogures",460
+"Leche desnatada sin lactosa",Hacendado,Minipack,"6 bricks x 1 L",5.28,Mercadona,"Leche y yogures",461
+"Leche desnatada sin lactosa",Hacendado,Brick,"1 L",0.88,Mercadona,"Leche y yogures",462
+"Leche desnatada calcio",Hacendado,Minipack,"6 bricks x 1 L",5.58,Mercadona,"Leche y yogures",463
+"Leche desnatada calcio",Hacendado,Brick,"1 L",0.93,Mercadona,"Leche y yogures",464
+"Leche desnatada",Hacendado,Minipack,"6 botellas x 1,5 L",8.28,Mercadona,"Leche y yogures",465
+"Leche desnatada",Hacendado,Botella,"1,5 L",1.38,Mercadona,"Leche y yogures",466
+"Bebida láctea Omega 3  con leche desnatada",Puleva,Minipack,"6 bricks x 1 L",9.54,Mercadona,"Leche y yogures",467
+"Bebida láctea Omega 3  con leche desnatada",Puleva,Brick,"1 L",1.59,Mercadona,"Leche y yogures",468
+"Leche desnatada calcio",Puleva,Minipack,"6 bricks x 1 L",8.94,Mercadona,"Leche y yogures",469
+"Leche desnatada calcio",Puleva,Brick,"1 L",1.49,Mercadona,"Leche y yogures",470
+"Bebida láctea desnatada omega 3",Hacendado,Minipack,"6 bricks x 1 L",6.6,Mercadona,"Leche y yogures",471
+"Bebida láctea desnatada omega 3",Hacendado,Brick,"1 L",1.1,Mercadona,"Leche y yogures",472
+"Bebida láctea Omega 3  con nueces y leche desnatada",Puleva,Minipack,"6 bricks x 1 L",9.54,Mercadona,"Leche y yogures",473
+"Bebida láctea Omega 3  con nueces y leche desnatada",Puleva,Brick,"1 L",1.59,Mercadona,"Leche y yogures",474
+"Leche en polvo desnatada",Hacendado,Paquete,"700 g",5.2,Mercadona,"Leche y yogures",475
+"Leche +Proteínas desnatada",Hacendado,Minipack,"6 bricks x 1 L",7.5,Mercadona,"Leche y yogures",476
+"Leche +Proteínas desnatada",Hacendado,Brick,"1 L",1.25,Mercadona,"Leche y yogures",477
+"Leche desnatada",Puleva,Minipack,"6 bricks x 1 L",6,Mercadona,"Leche y yogures",478
+"Leche desnatada",Puleva,Brick,"1 L",1,Mercadona,"Leche y yogures",479
+"Leche entera",Hacendado,Minipack,"6 bricks x 1 L",5.46,Mercadona,"Leche y yogures",480
+"Leche entera",Hacendado,Brick,"1 L",0.91,Mercadona,"Leche y yogures",481
+"Leche entera",Hacendado,Minipack,"6 mini bricks x 200 ml",1.6,Mercadona,"Leche y yogures",482
+"Leche entera",Asturiana,Minipack,"6 botellas x 1,5 L",10.68,Mercadona,"Leche y yogures",483
+"Leche entera",Asturiana,Botella,"1,5 L",1.78,Mercadona,"Leche y yogures",484
+"Leche entera sin lactosa",Hacendado,Minipack,"6 bricks x 1 L",5.94,Mercadona,"Leche y yogures",485
+"Leche entera sin lactosa",Hacendado,Brick,"1 L",0.99,Mercadona,"Leche y yogures",486
+"Leche entera",Hacendado,Minipack,"6 botellas x 1,5 L",8.82,Mercadona,"Leche y yogures",487
+"Leche entera",Hacendado,Botella,"1,5 L",1.47,Mercadona,"Leche y yogures",488
+"Leche entera calcio",Hacendado,Minipack,"6 bricks x 1 L",6.6,Mercadona,"Leche y yogures",489
+"Leche entera calcio",Hacendado,Brick,"1 L",1.1,Mercadona,"Leche y yogures",490
+"Leche entera fresca",Hacendado,Botella,"1 L",1.05,Mercadona,"Leche y yogures",491
+"Leche entera",Puleva,Minipack,"6 bricks x 1 L",6,Mercadona,"Leche y yogures",492
+"Leche entera",Puleva,Minipack,"1 L",1,Mercadona,"Leche y yogures",493
+"Bebida de avena",Alitey,Minipack,"6 bricks x 1 L",5.7,Mercadona,"Leche y yogures",494
+"Bebida de avena",Alitey,Brick,"1 L",0.95,Mercadona,"Leche y yogures",495
+"Bebida de avena",Alitey,Minipack,"3 mini bricks x 250 ml",1.5,Mercadona,"Leche y yogures",496
+"Bebida de avena sin azúcares añadidos",Hacendado,Minipack,"6 bricks x 1 L",7.2,Mercadona,"Leche y yogures",497
+"Bebida de avena sin azúcares añadidos",Hacendado,Brick,"1 L",1.2,Mercadona,"Leche y yogures",498
+"Bebida de soja con calcio y vitaminas",Hacendado,Minipack,"6 bricks x 1 L",4.2,Mercadona,"Leche y yogures",499
+"Bebida de soja con calcio y vitaminas",Hacendado,Brick,"1 L",0.7,Mercadona,"Leche y yogures",500
+"Bebida de soja 0% azúcares",Hacendado,Minipack,"6 bricks x 1 L",4.8,Mercadona,"Leche y yogures",501
+"Bebida de soja 0% azúcares",Hacendado,Brick,"1 L",0.8,Mercadona,"Leche y yogures",502
+"Bebida de almendras zero",Hacendado,Minipack,"6 bricks x 1 L",7.8,Mercadona,"Leche y yogures",503
+"Bebida de almendras zero",Hacendado,Brick,"1 L",1.3,Mercadona,"Leche y yogures",504
+"Bebida de arroz sin azúcares añadidos",Hacendado,Minipack,"6 bricks x 1 L",6.6,Mercadona,"Leche y yogures",505
+"Bebida de arroz sin azúcares añadidos",Hacendado,Brick,"1 L",1.1,Mercadona,"Leche y yogures",506
+"Bebida de soja sabor café sin azúcares añadidos",Hacendado,Minipack,"6 bricks x 1 L",7.5,Mercadona,"Leche y yogures",507
+"Bebida de soja sabor café sin azúcares añadidos",Hacendado,Brick,"1 L",1.25,Mercadona,"Leche y yogures",508
+"Bebida de almendras",Hacendado,Minipack,"6 bricks x 1 L",7.5,Mercadona,"Leche y yogures",509
+"Bebida de almendras",Hacendado,Brick,"1 L",1.25,Mercadona,"Leche y yogures",510
+"Leche de coco","Dee Thai",Bote,"400 ml",1.4,Mercadona,"Leche y yogures",511
+"Bebida de coco y arroz sin azúcares añadidos",Hacendado,Minipack,"6 bricks x 1 L",9,Mercadona,"Leche y yogures",512
+"Bebida de coco y arroz sin azúcares añadidos",Hacendado,Brick,"1 L",1.5,Mercadona,"Leche y yogures",513
+"Bebida de chufa  sin azúcares añadidos",Hacendado,Brick,"1 L",1.5,Mercadona,"Leche y yogures",514
+"Horchata de chufa",Hacendado,Brick,"1 L",1.2,Mercadona,"Leche y yogures",515
+"Bebida de avena con café",Hacendado,Vaso,"250 ml",0.9,Mercadona,"Leche y yogures",516
+"Bebida de avellana y arroz sin azúcares añadidos",Hacendado,Minipack,"6 bricks x 1 L",7.8,Mercadona,"Leche y yogures",517
+"Bebida de avellana y arroz sin azúcares añadidos",Hacendado,Brick,"1 L",1.3,Mercadona,"Leche y yogures",518
+"Bebida de soja sabor vainilla  0% azúcar",Hacendado,Minipack,"6 bricks x 1 L",6.6,Mercadona,"Leche y yogures",519
+"Bebida de soja sabor vainilla  0% azúcar",Hacendado,Brick,"1 L",1.1,Mercadona,"Leche y yogures",520
+"Bebida de avena  0% azúcar",Hacendado,Minipack,"6 bricks x 1 L",4.8,Mercadona,"Leche y yogures",521
+"Bebida de avena  0% azúcar",Hacendado,Brick,"1 L",0.8,Mercadona,"Leche y yogures",522
+"Bebida de avena con chocolate  sin azucares añadidos",Hacendado,Minipack,"6 bricks x 1 L",7.2,Mercadona,"Leche y yogures",523
+"Bebida de avena con chocolate sin azúcares añadidos",Hacendado,Brick,"1 L",1.2,Mercadona,"Leche y yogures",524
+"Bebida de avena con chocolate sin azúcares añadidos",Hacendado,Minipack,"3 mini bricks x 250 ml",1.55,Mercadona,"Leche y yogures",525
+"Batido de chocolate",Hacendado,Minipack,"6 mini bricks x 200 ml",1.4,Mercadona,"Leche y yogures",526
+"Batido de chocolate",Hacendado,Botella,"1 L",1.2,Mercadona,"Leche y yogures",527
+"Batido de chocolate 90% leche",Hacendado,Botella,"1 L",1.35,Mercadona,"Leche y yogures",528
+"Batido de chocolate 90% leche",Hacendado,Minipack,"6 mini bricks x 200 ml",1.65,Mercadona,"Leche y yogures",529
+"Batido de chocolate 90% leche",Puleva,Botella,"1 L",2.05,Mercadona,"Leche y yogures",530
+"Batido de chocolate 90% leche",Puleva,Minipack,"6 mini bricks x 200 ml",2.75,Mercadona,"Leche y yogures",531
+"Batido de chocolate","ColaCao Energy",Minipack,"4 mini botellas x 188 ml",2.65,Mercadona,"Leche y yogures",532
+"Batido sabor vainilla",Hacendado,Botella,"1 L",1.2,Mercadona,"Leche y yogures",533
+"Batido de vainilla",Hacendado,Minipack,"6 mini bricks x 200 ml",1.55,Mercadona,"Leche y yogures",534
+"Batido sabor fresa",Hacendado,Botella,"1 L",1.2,Mercadona,"Leche y yogures",535
+"Batido sabor fresa",Hacendado,Minipack,"6 mini bricks x 200 ml",1.55,Mercadona,"Leche y yogures",536
+"Batido de chocolate  0% sin azúcares añadidos",Hacendado,Minipack,"6 mini bricks x 200 ml",1.85,Mercadona,"Leche y yogures",537
+"Batido de fresa 90% leche",Puleva,Minipack,"6 mini bricks x 200 ml",2.75,Mercadona,"Leche y yogures",538
+"Batido de fresa 90% leche",Puleva,Botella,"1 L",2.05,Mercadona,"Leche y yogures",539
+"Batido de vainilla 90% leche",Puleva,Minipack,"6 mini bricks x 200 ml",2.75,Mercadona,"Leche y yogures",540
+"Batido de vainilla 90% leche",Puleva,Botella,"1 L",2.05,Mercadona,"Leche y yogures",541
+"Bebida láctea crecimiento y desarrollo  Max",Puleva,Minipack,"6 bricks x 1 L",10.14,Mercadona,"Leche y yogures",542
+"Bebida láctea crecimiento y desarrollo  Max",Puleva,Brick,"1 L",1.69,Mercadona,"Leche y yogures",543
+"Bebida láctea con cereales crecimiento y desarrollo  Max",Puleva,Minipack,"6 bricks x 1 L",10.14,Mercadona,"Leche y yogures",544
+"Bebida láctea con cereales crecimiento y desarrollo  Max",Puleva,Brick,"1 L",1.69,Mercadona,"Leche y yogures",545
+"Preparado lácteo crecimiento Peques 3",Puleva,Minipack,"6 bricks x 1 L",10.5,Mercadona,"Leche y yogures",546
+"Preparado lácteo crecimiento Peques 3",Puleva,Brick,"1 L",1.75,Mercadona,"Leche y yogures",547
+"Preparado lácteo con cereales crecimiento Peques 3",Puleva,Minipack,"6 bricks x 1 L",10.5,Mercadona,"Leche y yogures",548
+"Preparado lácteo con cereales crecimiento Peques 3",Puleva,Brick,"1 L",1.75,Mercadona,"Leche y yogures",549
+"Preparado lácteo cereales al cacao Peques 3",Puleva,Minipack,"3 mini bricks x 200 ml",1.75,Mercadona,"Leche y yogures",550
+"Preparado lácteo crecimiento +1 año",Hacendado,Minipack,"6 bricks x 1 L",7.5,Mercadona,"Leche y yogures",551
+"Preparado lácteo crecimiento +1 año",Hacendado,Brick,"1 L",1.25,Mercadona,"Leche y yogures",552
+"Preparado lácteo crecimiento +1 año",Hacendado,Minipack,"6 mini bricks x 200 ml",1.95,Mercadona,"Leche y yogures",553
+"Preparado lácteo con cereales crecimiento  +1 año",Hacendado,Minipack,"6 bricks x 1 L",9,Mercadona,"Leche y yogures",554
+"Preparado lácteo con cereales crecimiento  +1 año",Hacendado,Brick,"1 L",1.5,Mercadona,"Leche y yogures",555
+"Preparado lácteo con cacao y cereales crecimiento  +1 año",Hacendado,Minipack,"6 mini bricks x 200 ml",2.2,Mercadona,"Leche y yogures",556
+"Leche condensada",Hacendado,Bote,"1 kg",3.85,Mercadona,"Leche y yogures",557
+"Leche condensada",Hacendado,Bote,"370 g",2.15,Mercadona,"Leche y yogures",558
+"Leche condensada",Hacendado,Bote,"450 g",2.6,Mercadona,"Leche y yogures",559
+"Leche condensada desnatada",Hacendado,Bote,"450 g",2.95,Mercadona,"Leche y yogures",560
+"Bebida láctea sabor canela y limón",Hacendado,Botella,"1 L",1.65,Mercadona,"Leche y yogures",561
+"Leche evaporada",Hacendado,Minipack,"3 mini bricks x 200 ml",1.6,Mercadona,"Leche y yogures",562
+"Crema de leche para café",Campina,Paquete,"20 ud. (200 ml)",1.1,Mercadona,"Leche y yogures",563
+"Bastoncillos de algodón 100%",Deliplus,Caja,"200 ud.",0.9,Mercadona,Higiene,564
+"Alcohol 96º  antiséptico",Deliplus,Botella,"250 ml",0.75,Mercadona,Higiene,565
+"Agua oxigenada  desinfectante antiséptico",Deliplus,Botella,"250 ml",0.65,Mercadona,Higiene,566
+"Pulsera de citronela talla L",Hacendado,Paquete,"1 ud.",1.5,Mercadona,Higiene,567
+"Pulsera de citronela talla S",Hacendado,Paquete,"1 ud.",1.5,Mercadona,Higiene,568
+"Tiras adhesivas protectoras Classic color beige  surtidas, elásticas y transpirables",Deliplus,Caja,"30 tiras",1,Mercadona,Higiene,569
+"Solución única para lentes de contacto blandas  con ácido hialurónico",Deliplus,Bote,"360 ml",4,Mercadona,Higiene,570
+"Bandas adhesivas fijación fuerte color beige  para cortar",Deliplus,Caja,"10 tiras",1.5,Mercadona,Higiene,571
+"Esparadrapo textil adhesivo resistente color beige",Deliplus,Caja,"1 rollo",1.3,Mercadona,Higiene,572
+"Vaselina hidratante",Deliplus,Tarro,"100 g",2,Mercadona,Higiene,573
+"Algodón hidrófilo 100% zig-zag hipoalergénico",Deliplus,Paquete,"150 g",1.3,Mercadona,Higiene,574
+"Povidona yodada 10%",Cuidaplus,Botella,"125 ml",1.75,Mercadona,Higiene,575
+"Alcohol de romero",Deliplus,Botella,"250 ml",2,Mercadona,Higiene,576
+"Tiras adhesivas protectoras infantiles  surtidas, elásticas y transpirables",Deliplus,Caja,"20 tiras",1.4,Mercadona,Higiene,577
+"Roll-on alivio picor",Deliplus,Caja,"15 ml",3.5,Mercadona,Higiene,578
+"Esparadrapo de papel adhesivo microporoso color blanco",Deliplus,Caja,"1 rollo",1.2,Mercadona,Higiene,579
+"Tiras adhesivas protectoras de espuma acolchado  protección extra",Deliplus,Caja,"15 tiras",1.3,Mercadona,Higiene,580
+"Tiras adhesivas protectoras de poliuretano  surtidas resistentes al agua","Aqua Deliplus",Caja,"10 tiras",1.1,Mercadona,Higiene,581
+"Bálsamo oriental efecto calor  con vitamina E",Deliplus,Tarro,"30 ml",2.99,Mercadona,Higiene,582
+"Apósitos hidrocoloides adhesivos para ampollas y rozaduras  surtidos",Deliplus,Caja,"6 apósitos",4.3,Mercadona,Higiene,583
+"Venda elástica cohesiva  fijación fuerte",Deliplus,Caja,"1 venda",2.1,Mercadona,Higiene,584
+"Spray repelente fuerte  antimosquitos","Cuidaplus Forte",Spray,"100 ml",2.75,Mercadona,Higiene,585
+"Protectores para los oídos de espuma",Moldex,Caja,"4 protectores",1.7,Mercadona,Higiene,586
+"Lágrimas hidratantes para ojos secos",Hacendado,Caja,"30 monodosis",5.7,Mercadona,Higiene,587
+"Stick de árnica Cata pum",Deliplus,Caja,"14 ml",4,Mercadona,Higiene,588
+"Gasas esterilizadas de algodón 100% hidrófilo",Deliplus,Caja,"10 ud.",1.2,Mercadona,Higiene,589
+"Spray desinfectante antiséptico transparente  contiene clorhexidina y digluconato 2%",Deliplus,Spray,"50 ml",1.8,Mercadona,Higiene,590
+"Toallitas de manos hidroalcohólicas  75% Alcohol",Deliplus,Paquete,"15 ud.",0.9,Mercadona,Higiene,591
+"Gel hidroalcohólico 80% alcohol  antiséptico sin aclarado",Deliplus,Bote,"500 ml",3.1,Mercadona,Higiene,592
+"Mascarillas quirúrgicas  de un solo uso",MilaRosa,Paquete,"10 ud",0.95,Mercadona,Higiene,593
+"Preservativos sensitivo suave",Durex,Caja,"12 preservativos",8,Mercadona,Higiene,594
+"Preservativos natural",On,Caja,"12 preservativos",2.93,Mercadona,Higiene,595
+"Preservativos natural",Durex,Caja,"12 preservativos",7,Mercadona,Higiene,596
+"Preservativos sensitive",On,Caja,"12 preservativos",3.12,Mercadona,Higiene,597
+"Preservativos dame placer",Durex,Caja,"12 preservativos",8,Mercadona,Higiene,598
+Banana,Dia,Granel,"500 g",0.56,Dia,"Fruta y verduras",599
+"Plátano de canarias",Dia,Bolsa,"1.2 Kg",3.11,Dia,"Fruta y verduras",600
+"Plátano de Canarias",Dia,Lote,"900 g",2.69,Dia,"Fruta y verduras",601
+"Plátano bio",Dia,Bolsa,"1 Kg",2.99,Dia,"Fruta y verduras",602
+"Banana bio",Dia,Bolsa,"1 Kg",2.49,Dia,"Fruta y verduras",603
+"Plátano macho para freír",Dia,Granel,"1 Kg",2.89,Dia,"Fruta y verduras",604
+"Vino rosado lambrusco",Flaminia,Botella,"75 cl",2.99,Dia,"Bebidas con alcohol",605
+"Vino frizzante moscato rosado",Condominium,Botella,"  75 cl",2.99,Dia,"Bebidas con alcohol",606
+"Vino rosado D.O. Navarra","Viña Ardanche",Botella,"75 cl",2.1,Dia,"Bebidas con alcohol",607
+"Vino rosado de aguja",Peñascal,Botella,"75 cl",3.85,Dia,"Bebidas con alcohol",608
+"Vino rosado D.O. Valdepeñas","Viña Danza",Botella,"75 cl",1.69,Dia,"Bebidas con alcohol",609
+"Vino rosado D.O. Rioja","El coto",Botella,"75 cl",3.95,Dia,"Bebidas con alcohol",610
+"Vino rosado bobal","Pinta en Copas",Botella,"75 cl",1.99,Dia,"Bebidas con alcohol",611
+"Vino rosado D.O. Rioja","Señorío de Ondas",Botella,"75 cl",2.59,Dia,"Bebidas con alcohol",612
+"Vino rosado D.O. Rioja","Castillo de Haro",Botella,"75 cl",3.25,Dia,"Bebidas con alcohol",613
+"Vino rosado","Castillo de Velasco",Brik,"1 l",1.19,Dia,"Bebidas con alcohol",614
+"Vino rosado D.O. Navarra","Gran feudo",Botella,"75 cl",4.79,Dia,"Bebidas con alcohol",615
+"Vino rosado","Viñas del Vero",Botella,"75 cl",6.1,Dia,"Bebidas con alcohol",616
+"Tortitas de maíz",Hacendado,Paquete,"4 packs (120 g)",1.1,Mercadona,"Cereales y galletas",617
+"Tortitas de maíz con chocolate",Hacendado,Paquete,"4 packs (130 g)",1.65,Mercadona,"Cereales y galletas",618
+"Tortitas de arroz con chocolate blanco sabor yogur",Hacendado,Paquete,"4 packs (120 g)",1.65,Mercadona,"Cereales y galletas",619
+"Tortitas de arroz",Hacendado,Paquete,"4 packs (124 g)",1.15,Mercadona,"Cereales y galletas",620
+"Tortitas de arroz con chocolate con leche",Hacendado,Paquete,"4 packs (130 g)",1.65,Mercadona,"Cereales y galletas",621
+"Tortitas de legumbres y arroz",Hacendado,Paquete,"4 packs (109 g)",1.75,Mercadona,"Cereales y galletas",622
+"Tortitas de maíz",Naturmundo,Bolsa,"130 g",1.25,Dia,"Cereales y galletas",623
+"Tortitas de arroz integral con chocolate blanco",Naturmundo,Bolsa,"130 g",1.6,Dia,"Cereales y galletas",624
+"Tortitas de arroz integral con chocolate negro",Naturmundo,Bolsa,"130 g",1.6,Dia,"Cereales y galletas",625
+"Tortitas de maíz con chocolate negro",Naturmundo,Bolsa,"90 g",1.14,Dia,"Cereales y galletas",626
+"Mini tortitas de maíz y arroz sabor jamón",Naturmundo,Bolsa,"75 g",1.35,Dia,"Cereales y galletas",627
+"Mini tortitas sabor campesina",Naturmundo,Bolsa,"75 g",1.35,Dia,"Cereales y galletas",628
+"Mini tortitas de maíz y arroz sabor queso",Naturmundo,Bolsa,"75 g",1.35,Dia,"Cereales y galletas",629
+"Tortitas de arroz integral",Naturmundo,Bolsa,"130 g",1.25,Dia,"Cereales y galletas",630
+"Tortitas de maíz",Bicentury,Bolsa,"130 g",1.79,Dia,"Cereales y galletas",631
+"Tortitas de arroz con chocolate blanco y frutos rojos",Bicentury,Bolsa,"184 g",2.59,Dia,"Cereales y galletas",632
+"Tortitas de maíz sabor setas, trufa y queso",Bicentury,Bolsa,"124 g",2.59,Dia,"Cereales y galletas",633
+"Tortitas de maíz sabor jamón ibérico",Bicentury,Bolsa,"123 g",2.39,Dia,"Cereales y galletas",634
+"Tortitas de maíz con queso y albahaca",Bicentury,Bolsa,"123 g",2.29,Dia,"Cereales y galletas",635
+"Tortitas de arroz integral con chocolate blanco, almendra y canela",Bicentury,Bolsa,"138 g",2.59,Dia,"Cereales y galletas",636
+"Tortitas de arroz y quinoa",Ecocesta,Bolsa,"120 g",1.79,Dia,"Cereales y galletas",637
+"Tortitas de arroz con chocolate con leche",Bicentury,Bolsa,"130 g",2.59,Dia,"Cereales y galletas",638
+"Barritas de cereales bañadas con chocolate negro sin azúcares",Bicentury,Caja,"102 g",2.99,Dia,"Cereales y galletas",639
+"Tortitas de arroz integral sabor yogur",Bicentury,Bolsa,"130 g",2.39,Dia,"Cereales y galletas",640
+"Tortitas de arroz integral con chocolate negro",Bicentury,Bolsa,"130 g",2.39,Dia,"Cereales y galletas",641
+"Tortitas de arroz integral con chocolate negro",Bicentury,Bolsa,"  130 g",2.59,Dia,"Cereales y galletas",642
+"Barrita de chocolate con",Corny,Bolsa,"  50 g",1.79,Dia,"Cereales y galletas",643
+"Barritas energéticas con dátil, coco y nueces","Just loading",Bolsa,"40 g",1,Dia,"Cereales y galletas",644
+"Barritas de cereales con cacahuetes y cacao",Corny,Bolsa,"35 g",1.79,Dia,"Cereales y galletas",645
+"Barritas energéticas con avena y café flapjack","Just loading",Bolsa,"60 g",1.29,Dia,"Cereales y galletas",646
+"Barritas de proteínas sabor brownie","Just loading",Bolsa,"35 g",1.39,Dia,"Cereales y galletas",647
+"Tortitas de arroz integral con chocolate blanco, limón y coco",Bicentury,Bolsa,"138 g",2.59,Dia,"Cereales y galletas",648
+"Tortitas de arroz con chocolate negro con azahar y piel de naranja",Bicentury,Bolsa,"139 g",2.59,Dia,"Cereales y galletas",649
+"Tortitas de espelta bio",Ecocesta,Bolsa,"108 g",1.79,Dia,"Cereales y galletas",650
+"Barrita proteína sabor chocolate blanco con stracciatella","Just loading",Bolsa,"35 g",1.35,Dia,"Cereales y galletas",651
+"Tortitas de arroz con chocolate con leche y avellanas",Bicentury,Bolsa,"142 g",2.59,Dia,"Cereales y galletas",652
+"Barritas de proteínas sabor chocolate blanco",Weider,Caja,"105 g",3.75,Dia,"Cereales y galletas",653
+"Barritas de proteínas sabor avellanas",Weider,Caja,"105 g",4.39,Dia,"Cereales y galletas",654
+"Barritas de cereales y cacao bañadas en chocolate con leche",Bicentury,Caja,"120 g",3.15,Dia,"Cereales y galletas",655
+"Barritas de cereales y cacao bañadas con chocolate negro",Bicentury,Caja,"120 g",3.15,Dia,"Cereales y galletas",656
+"Barritas de chocolate con leche con chocochips",Bicentury,Caja,"128 g",4.99,Dia,"Cereales y galletas",657
+"Galletas sabor yogur con limón",Bicentury,Caja,"160 g",2.59,Dia,"Cereales y galletas",658
+"Tortitas de maíz con chocolate negro",Bicentury,Bolsa,"90 g",2.29,Dia,"Cereales y galletas",659
+"Galleta salada mini crackers","Snack Maniac",Bote,"350 g",1.29,Dia,"Cereales y galletas",660
+"Galletas crackers saladas","Snack Maniac",Bolsa,"300 g",1.29,Dia,"Cereales y galletas",661
+Crackers,Tuc,Bolsa,"100 g",1.23,Dia,"Cereales y galletas",662
+"Galletas crackers con sal","Gran pavesi",Bolsa,"250 g",2.39,Dia,"Cereales y galletas",663
+"Galletas saladas con aceite de oliva virgen extra","Biscuits Galicia",Bolsa,"200 g",2.09,Dia,"Cereales y galletas",664
+"Pasas sultanas sin pepitas",Naturmundo,Bolsa,"200 g",1.08,Dia,"Frutos secos",665
+"Arándanos rojos deshidratados",Naturmundo,Bolsa,"150 g",1.8,Dia,"Frutos secos",666
+"Dátiles sin hueso",Naturmundo,Bolsa,"250 g",1.57,Dia,"Frutos secos",667
+"Ciruelas sin hueso",Naturmundo,Bolsa,"200 g",1.68,Dia,"Frutos secos",668
+"Orejón albaricoque dia naturmundo",Naturmundo,Bolsa,"200 g",2.6,Dia,"Frutos secos",669
+Dátiles,"Frit ravich",Bandeja,"500 g",3.2,Dia,"Frutos secos",670
+Mandarina,Dia,Malla,"1 Kg",1.49,Dia,"Fruta y verduras",671
+"Naranja especial para zumo",Dia,Malla,"4 Kg",5.29,Dia,"Fruta y verduras",672
+"Naranjas de mesa",Dia,Malla,"2 Kg",2.99,Dia,"Fruta y verduras",673
+"Mandarina selección",Dia,Bandeja,"750 g",1.89,Dia,"Fruta y verduras",674
+Mandarina,Dia,Granel,"500 g",1.15,Dia,"Fruta y verduras",675
+"Mandarina Torres Selección",Dia,Malla,"750 g",2.49,Dia,"Fruta y verduras",676
+"Naranja selección",Dia,Granel,"1 Kg",2.49,Dia,"Fruta y verduras",677
+"Zumo de naranja recién exprimido",Dia,Botella,"1 l",4.79,Dia,Zumos,678
+"Zumo de naranja recién exprimido",Dia,Botella,"500 ml",2.99,Dia,Zumos,679
+"Zumo de naranja recién exprimido",Dia,Botella,"250 ml",1.99,Dia,Zumos,680
+"Filetes de panga  ultracongelados",Hacendado,Paquete,"900 g escurrido",4.8,Mercadona,Congelados,681
+"Filetes de merluza Argentina sin piel  ultracongelados",Hacendado,Paquete,"600 g escurrido",4.2,Mercadona,Congelados,682
+"Rodaja de emperador  ultracongelado",Hacendado,Pieza,"200 g aprox. escurrido",3.18,Mercadona,Congelados,683
+"Filetes de bacalao  ultracongelado",Maredeus,Paquete,"375 g escurrido",5.3,Mercadona,Congelados,684
+"Medallones de merluza  ultracongelados",Hacendado,Paquete,"485 g escurrido",3.65,Mercadona,Congelados,685
+"Filete de salmón rosado salvaje con piel  ultracongelado",Hacendado,Pieza,"300 g aprox. escurrido",3.58,Mercadona,Congelados,686
+"Lomos de merluza del cabo  ultracongelados",Hacendado,Caja,"400 g",4.25,Mercadona,Congelados,687
+"Anguriñas de surimi  ultracongeladas",Hacendado,Bandeja,"260 g",2.3,Mercadona,Congelados,688
+"Fritura de pescado  ultracongelada",Hacendado,Paquete,"600 g escurrido",5.45,Mercadona,Congelados,689
+"Porciones de bacalao sin piel  ultracongelado",MareDeus,Paquete,"600 g escurrido",7.2,Mercadona,Congelados,690
+"Rodaja de tintorera sin piel  ultracongelada",Hacendado,Pieza,"450 g aprox. escurrido",3.13,Mercadona,Congelados,691
+"Porciones de merluza del cabo sin piel  ultracongeladas",Hacendado,Paquete,"500 g",4.6,Mercadona,Congelados,692
+"Pescadilla de merluza sin cabeza  ultracongelada",Hacendado,Paquete,"1 kg escurrido",5,Mercadona,Congelados,693
+"Cola de rape del cabo  ultracongelada",Hacendado,Pieza,"500 g aprox. escurrido",8.48,Mercadona,Congelados,694
+"Merluza del cabo sin cabeza  ultracongelada",Hacendado,Pieza,"700 g aprox. escurrido",4.86,Mercadona,Congelados,695
+"Lenguado negro entero  ultracongelado",Hacendado,Paquete,"600 g escurrido",7.7,Mercadona,Congelados,696
+"Lomos de salmón sin piel y sin espinas  congelado",Hacendado,Paquete,"2 ud. (250 g)",6.4,Mercadona,Congelados,697
+"Migas de bacalao sin espinas y sin piel  ultra congeladas",MareDeus,Paquete,"300 g escurrido",3.85,Mercadona,Congelados,698
+"Rodajas de atún de aleta amarilla  congelado",Hacendado,Bandeja,"250 g aprox.",4.24,Mercadona,Congelados,699
+"Filetes de bacaladilla  ultracongelado",Hacendado,Paquete,"500 g escurrido",2.95,Mercadona,Congelados,700
+"Escalopines de rosada sin piel  ultracongelados",Hacendado,Paquete,"500 g escurrido",7.99,Mercadona,Congelados,701
+"Filetes de merluza grandes sin piel  ultracongelados",Hacendado,Paquete,"970 g escurrido",9.9,Mercadona,Congelados,702
+"Lomo de bacalao  ultracongelado",MareDeus,Paquete,"390 g aprox.",6.35,Mercadona,Congelados,703
+"Albóndigas de bacalao  congeladas",Camós,Paquete,"400 g",1.9,Mercadona,Congelados,704
+"Aritos de surimi a la romana  ultracongelados",Pescanova,Paquete,"625 g",2.95,Mercadona,Congelados,705
+"Merluza empanada pan fino  ultracongelada",Hacendado,Paquete,"510 g",3.95,Mercadona,Congelados,706
+"Filetes de merluza al huevo  ultracongelados",Hacendado,Paquete,"600 g",4.95,Mercadona,Congelados,707
+"Varitas de merluza empanadas  ultracongeladas",Hacendado,Paquete,"400 g",3.95,Mercadona,Congelados,708
+"Empanadillas de atún  ultracongeladas",Hacendado,Caja,"500 g",1.9,Mercadona,Congelados,709
+"Palitos de merluza a la romana  ultracongelados",Hacendado,Paquete,"500 g",2.75,Mercadona,Congelados,710
+"Figuritas de merluza empanadas  ultracongeladas",Hacendado,Paquete,"500 g",3.6,Mercadona,Congelados,711
+"Langostino caballitos rebozados  ultracongelados",Hacendado,Paquete,"300 g",3.3,Mercadona,Congelados,712
+"Filetes de boquerón en tempura  ultracongelado",Hacendado,Paquete,"400 g",3.75,Mercadona,Congelados,713
+"Tortillitas de camarones Crabss ultracongeladas",Hacendado,Bandeja,"300 g",2.75,Mercadona,Congelados,714
+"Rabas empanadas  ultracongeladas",Hacendado,Paquete,"500 g",3.75,Mercadona,Congelados,715
+"Anillas de pota a la romana  ultracongeladas",Hacendado,Paquete,"500 g",4.3,Mercadona,Congelados,716
+"Croquetas de merluza  ultracongelados",Hacendado,Paquete,"350 g",2.1,Mercadona,Congelados,717
+"Tubo de pota argentina limpia congelado",Hacendado,Pieza,"100 g aprox. escurrido",1.29,Mercadona,Congelados,718
+"Sepia limpia congelada",Hacendado,Pieza,"400 g aprox. escurrido",5.98,Mercadona,Congelados,719
+"Sepia limpia troceada  congelada",Hacendado,Paquete,"360 g escurrido",4.05,Mercadona,Congelados,720
+"Calamar limpio troceado  congelado",Hacendado,Paquete,"475 g escurrido",5.1,Mercadona,Congelados,721
+"Rodaja de potón del Pacífico cocido  congelado",Hacendado,Paquete,"475 g escurrido",6.05,Mercadona,Congelados,722
+"Sepia limpia pequeña  congelada",Hacendado,Paquete,"360 g escurrido",4,Mercadona,Congelados,723
+"Tiras de potón  congeladas",Hacendado,Paquete,"400 g escurrido",4.45,Mercadona,Congelados,724
+"Tinta de sepia Nortindal congelada",Hacendado,Paquete,"8 ud. (32 g)",2.05,Mercadona,Congelados,725
+"Anillas de pota  congeladas",Hacendado,Paquete,"360 g escurrido",5.15,Mercadona,Congelados,726
+"Pulpo crudo  congelado",Hacendado,Paquete,"1 kg aprox.",17.95,Mercadona,Congelados,727
+"Chipirón puntilla  congelado",Hacendado,Paquete,"450 g escurrido",4.7,Mercadona,Congelados,728
+"Calamar patagónico pequeño  ultracongelado",Hacendado,Paquete,"500 g escurrido",4.5,Mercadona,Congelados,729
+"Pizza jamón y queso","Al Punto",Bandeja,"400 g",2.49,Dia,"Pizzas y platos preparados",730
+"Pizza barbacoa","Al Punto",Bandeja,"425 g",2.59,Dia,"Pizzas y platos preparados",731
+Pizza,"Al Punto",Bandeja,"  390 g",2.69,Dia,"Pizzas y platos preparados",732
+"Pizza carbonara","Al Punto",Bandeja,"400 g",2.69,Dia,"Pizzas y platos preparados",733
+"Pizza jamón y queso","Casa Tarradellas",Bandeja,"225 g",3.19,Dia,"Pizzas y platos preparados",734
+"Pizza pollo","Al Punto",Bandeja,"400 g",2.69,Dia,"Pizzas y platos preparados",735
+"Pizza atún y bacon","Al Punto",Bandeja,"400 g",2.69,Dia,"Pizzas y platos preparados",736
+"Pizza smoky grilled pork","Al Punto",Bandeja,"480 g",2.99,Dia,"Pizzas y platos preparados",737
+Pizza,"Al Punto",Bandeja,"  580 g",3.95,Dia,"Pizzas y platos preparados",738
+"Pizza jamón y queso","Casa Tarradellas",Bandeja,"405 g",3.19,Dia,"Pizzas y platos preparados",739
+"Pizza serrana","Al Punto",Bandeja,"390 g",2.69,Dia,"Pizzas y platos preparados",740
+"Pizza jamón y queso familiar","Al Punto",Bandeja,"600 g",3.95,Dia,"Pizzas y platos preparados",741
+Pizza,"Casa Tarradellas",Bandeja,"  390 g",3.19,Dia,"Pizzas y platos preparados",742
+"Pizza pollo","Casa Tarradellas",Bandeja,"410 g",3.19,Dia,"Pizzas y platos preparados",743
+"Pizza jamón serrano","Casa Tarradellas",Bandeja,"390 g",3.19,Dia,"Pizzas y platos preparados",744
+"Pizza atún y bacon","Casa Tarradellas",Bandeja,"405 g",3.19,Dia,"Pizzas y platos preparados",745
+"Pizza carbonara","Casa Tarradellas",Bandeja,"400 g",3.19,Dia,"Pizzas y platos preparados",746
+"Sidra natural",Cortina,Botella,"70 cl",2.4,Dia,"Bebidas con alcohol",747
+"Cava semiseco","Grand astoria",Botella,"75 cl",2.95,Dia,"Bebidas con alcohol",748
+"Cava brut","Grand astoria",Botella,"75 cl",2.95,Dia,"Bebidas con alcohol",749
+"Vino rosado lambrusco",Dante,Botella,"75 cl",2.15,Dia,"Bebidas con alcohol",750
+"Sidra espumosa",Sidrallero,Botella,"75 cl",1.6,Dia,"Bebidas con alcohol",751
+"Sidra de manzana","Ladrón de manzanas",Botella,"25 cl",1.19,Dia,"Bebidas con alcohol",752
+"Cava brut nature","Grand astoria",Botella,"75 cl",3.95,Dia,"Bebidas con alcohol",753
+"Cava brut nature","Jaume Serra",Botella,"75 cl",4.25,Dia,"Bebidas con alcohol",754
+Sidra,"El gaitero",Botella,"75 cl",2.35,Dia,"Bebidas con alcohol",755
+Cava,Codorníu,Botella,"3 x 20 cl",6.99,Dia,"Bebidas con alcohol",756
+"Cava reserva brut nature","Grand astoria",Botella,"75 cl",4.49,Dia,"Bebidas con alcohol",757
+"Sidra extra","El gaitero",Botella,"75 cl",3.05,Dia,"Bebidas con alcohol",758
+"Cava semiseco  Carta Nevada",Freixenet,Botella,"75 cl",6.95,Dia,"Bebidas con alcohol",759
+"Cava semiseco  Carta Nevada",Freixenet,Botella,"3 x 20 cl",6.95,Dia,"Bebidas con alcohol",760
+"Cava brut","Vía de la Plata",Botella,"75 cl",4.99,Dia,"Bebidas con alcohol",761
+"Cava brut  Anna",Codorníu,Botella,"75 cl",9.35,Dia,"Bebidas con alcohol",762
+"Cava brut  Cordón Negro",Freixenet,Botella,"75 cl",7.99,Dia,"Bebidas con alcohol",763
+"Sidra de manzana","The Good Cider",Botella,"33 cl",1.4,Dia,"Bebidas con alcohol",764
+"Cava brut nature  Anna",Codorníu,Botella,"75 cl",9.35,Dia,"Bebidas con alcohol",765
+"Cereales rellenos de leche",Hacendado,Caja,"500 g",2.5,Mercadona,"Cereales y galletas",766
+"Mini cereales rellenos de leche",Hacendado,Caja,"5 bolsitas (175 g)",1.9,Mercadona,"Cereales y galletas",767
+"Cereales rellenos de chocolate y avellana",Hacendado,Paquete,"500 g",2.1,Mercadona,"Cereales y galletas",768
+"Cereales estrellas de maíz  Hacendado con miel",Stars,Caja,"400 g",2.1,Mercadona,"Cereales y galletas",769
+"Cereales copos de maíz  Hacendado 0% azúcares añadidos","Corn Flakes",Caja,"500 g",1.5,Mercadona,"Cereales y galletas",770
+"Cereales de arroz inflado  Hacendado con chocolate","Choco Rice",Caja,"500 g",2.1,Mercadona,"Cereales y galletas",771
+"Cereales copos de maíz Pack","Corn Flakes Kellogg",Caja,"500 g",3,Mercadona,"Cereales y galletas",772
+"Cereales de arroz inflado Pack con chocolate","Choco Krispies Kellogg",Caja,"420 g",2.95,Mercadona,"Cereales y galletas",773
+"Cereales copos de trigo Chocodays  con chocolate",Hacendado,Caja,"500 g",1.8,Mercadona,"Cereales y galletas",774
+"Cereales copos de maíz  Harvest Home sin gluten","Corn Flakes",Caja,"375 g",2.59,Mercadona,"Cereales y galletas",775
+"Cereales rellenos de crema de cacao y avellana  sin gluten",Hacendado,Paquete,"400 g",2.25,Mercadona,"Cereales y galletas",776
+"Copos de avena",Brüggen,Caja,"500 g",0.9,Mercadona,"Cereales y galletas",777
+"Cereales copos de trigo integral y arroz","Special K Classic",Caja,"450 g",3.25,Mercadona,"Cereales y galletas",778
+"Muesli Crunchy  con chocolate",Hacendado,Paquete,"500 g",2.1,Mercadona,"Cereales y galletas",779
+"Cereales copos de trigo integral y arroz  0% azúcares añadidos",Hacendado,Caja,"500 g",2,Mercadona,"Cereales y galletas",780
+"Cereales copos de trigo espelta integral  0% azúcares añadidos",Hacendado,Paquete,"400 g",1.7,Mercadona,"Cereales y galletas",781
+"Cereales integrales copos de trigo  con chocolate","Chocapic Nestlé",Caja,"625 g",3.95,Mercadona,"Cereales y galletas",782
+"Muesli Crunchy  con frutos secos",Hacendado,Paquete,"500 g",2.1,Mercadona,"Cereales y galletas",783
+"Muesli Crunchy  0% azúcares añadidos 0% edulcorantes",Hacendado,Paquete,"500 g",2,Mercadona,"Cereales y galletas",784
+"Cereales copos de trigo integral y arroz  bañados en chocolate con leche",Hacendado,Caja,"375 g",2.35,Mercadona,"Cereales y galletas",785
+"Cereales copos tostados de trigo integral y arroz  con chocolate",Hacendado,Caja,"425 g",2,Mercadona,"Cereales y galletas",786
+"Cereales de trigo entero integral",Weetabix,Caja,"430 g",3.39,Mercadona,"Cereales y galletas",787
+"Muesli Crunchy  con fruta",Hacendado,Paquete,"500 g",2.1,Mercadona,"Cereales y galletas",788
+"Avena molida",Hacendado,Paquete,"500 g",1.11,Mercadona,"Cereales y galletas",789
+"Salvado de avena",Hacendado,Paquete,"500 g",1.65,Mercadona,"Cereales y galletas",790
+"Cereales y semillas granola  con frutos secos",Hacendado,Paquete,"400 g",2.4,Mercadona,"Cereales y galletas",791
+"Cereales con salvado de trigo Fibra Sticks",Hacendado,Caja,"500 g",1.8,Mercadona,"Cereales y galletas",792
+"Muesli  con frutas",Hacendado,Paquete,"1 kg",2.3,Mercadona,"Cereales y galletas",793
+"Muesli  50% frutas y frutos secos",Hacendado,Paquete,"500 g",1.95,Mercadona,"Cereales y galletas",794
+"Salvado de trigo integral",Hacendado,Paquete,"250 g",1.35,Mercadona,"Cereales y galletas",795
+"Muesli  con quinoa, chía y chocolate negro",Hacendado,Paquete,"400 g",2.25,Mercadona,"Cereales y galletas",796
+"Cereales Cereal Mix  0% azúcares añadidos",Hacendado,Paquete,"375 g",2.4,Mercadona,"Cereales y galletas",797
+"Cereales avena Crunchy",Hacendado,Caja,"400 g",1.9,Mercadona,"Cereales y galletas",798
+"Cereales avena Crunchy  de cacao",Hacendado,Caja,"400 g",2.15,Mercadona,"Cereales y galletas",799
+"Barritas de cereales  chocolate con leche",Hacendado,Caja,"6 barritas (120 g)",1.4,Mercadona,"Cereales y galletas",800
+"Barritas de cereales  con chocolate blanco",Hacendado,Caja,"6 barritas (127 g)",1.3,Mercadona,"Cereales y galletas",801
+"Barritas de cereales muesli  con chocolate",Hacendado,Caja,"6 barritas (138 g)",1.4,Mercadona,"Cereales y galletas",802
+"Barritas de cereales con frutos secos",Hacendado,Caja,"6 barritas (150 g)",1.65,Mercadona,"Cereales y galletas",803
+"Barritas Sustitutivo de comida  sabor avena y chocolate con leche",Belladieta,Caja,"4 barritas (120 g)",3.1,Mercadona,"Cereales y galletas",804
+"Barritas con proteínas  sabor coco y chocolate","Enervit Sport",Caja,"3 barritas (120 g)",3.35,Mercadona,"Cereales y galletas",805
+"Barrita con proteínas  sabor chocolate negro","Enervit Sport",Caja,"3 barritas (180 g)",5.15,Mercadona,"Cereales y galletas",806
+"Barritas de espelta  sabor manzana",Hacendado,Caja,"6 barritas (120 g)",1.5,Mercadona,"Cereales y galletas",807
+"Barritas de avena  con chocolate negro",Hacendado,Caja,"6 paquetes (252 g)",2.35,Mercadona,"Cereales y galletas",808
+"Barritas de galleta rellenas de arándanos",Hacendado,Caja,"5 barritas (125 g)",1.5,Mercadona,"Cereales y galletas",809
+"Barritas 100% fruta de manzana y plátano",Hacendado,Caja,"3 barritas (90 g)",1.75,Mercadona,"Cereales y galletas",810
+"Barritas de cereales  con cacahuetes sabor caramelo",Hacendado,Caja,"4 barritas (138 g)",1.7,Mercadona,"Cereales y galletas",811
+"Cerveza radler con zumo de limón",Ramblers,Lata,"33 cl",0.4,Dia,"Bebidas con alcohol",812
+"Cerveza sabor limón shandy sin alcohol",Ramblers,Lata,"33 cl",0.35,Dia,"Bebidas con alcohol",813
+"Cerveza radler con limón",Amstel,Lata,"12 x 33 cl",8.99,Dia,"Bebidas con alcohol",814
+"Cerveza radler con limón","San Miguel",Lata,"  33 cl",0.7,Dia,"Bebidas con alcohol",815
+"Cerveza con limón",Shandy,Botella,"6 x 25 cl",3.19,Dia,"Bebidas con alcohol",816
+"Cerveza radler con limón",Amstel,Lata,"33 cl",0.79,Dia,"Bebidas con alcohol",817
+"Cerveza radler con limón",Amstel,Lata,"  33 cl",0.79,Dia,"Bebidas con alcohol",818
+"Cerveza con limón  Mixta",Mahou,Lata,"33 cl",0.79,Dia,"Bebidas con alcohol",819
+"Cerveza con limón",Shandy,Lata,"33 cl",0.85,Dia,"Bebidas con alcohol",820
+"Cerveza radler con limón","San Miguel",Lata,"33 cl",0.75,Dia,"Bebidas con alcohol",821
+"Cerveza con limón  Mixta",Mahou,Botella,"6 x 25 cl",3.79,Dia,"Bebidas con alcohol",822
+"Cerveza radler con limón",Mahou,Lata," 33 cl",0.85,Dia,"Bebidas con alcohol",823
+"Cerveza radler con limón",Amstel,Lata,"  12 x 33 cl",8.99,Dia,"Bebidas con alcohol",824
+"Cerveza radler con limón natural mini  pack","La sagra",Frasco,"6 x 20 cl",3.99,Dia,"Bebidas con alcohol",825
+"Cerveza lager",Ramblers,Lata,"12 x 33 cl",3.72,Dia,"Bebidas con alcohol",826
+"Cerveza lager   plástico",Ramblers,Botella,"1 l",0.95,Dia,"Bebidas con alcohol",827
+"Cerveza clásica",Mahou,Lata,"24 x 33 cl",17.29,Dia,"Bebidas con alcohol",828
+Cerveza,Mahou,Lata," 12 x 33 cl",9.96,Dia,"Bebidas con alcohol",829
+"Cerveza lager",Ramblers,Lata,"33 cl",0.31,Dia,"Bebidas con alcohol",830
+Cerveza,Amstel,Lata,"12 x 33 cl",8.52,Dia,"Bebidas con alcohol",831
+"Cerveza lager",Ramblers,Botella,"6 x 25 cl",2.09,Dia,"Bebidas con alcohol",832
+"Cerveza especial","Estrella Galicia",Lata,"33 cl",0.84,Dia,"Bebidas con alcohol",833
+"Cerveza especial",Ramblers,Lata,"33 cl",0.37,Dia,"Bebidas con alcohol",834
+Cerveza,Mahou,Botella," 12 x 25 cl",7.92,Dia,"Bebidas con alcohol",835
+"Cerveza clásica",Mahou,Lata,"12 x 33 cl",8.64,Dia,"Bebidas con alcohol",836
+Cerveza,"San Miguel",Lata,"12 x 33 cl",8.4,Dia,"Bebidas con alcohol",837
+"Cerveza clásica",Mahou,Lata,"33 cl",0.75,Dia,"Bebidas con alcohol",838
+"Cerveza especial",Alhambra,Botella,"6 x 25 cl",3.99,Dia,"Bebidas con alcohol",839
+"Cerveza lager",Ramblers,Botella,"1 l",1.05,Dia,"Bebidas con alcohol",840
+"Cerveza lager singular",Alhambra,Lata,"33 cl",0.89,Dia,"Bebidas con alcohol",841
+Cerveza,Heineken,Lata,"33 cl",0.82,Dia,"Bebidas con alcohol",842
+"Cerveza rubia especial",Victoria,Lata,"33 cl",0.72,Dia,"Bebidas con alcohol",843
+"Cerveza lager",Ramblers,Lata,"50 cl",0.49,Dia,"Bebidas con alcohol",844
+"Cerveza especial",Ambar,Lata,"50 cl",1.29,Dia,"Bebidas con alcohol",845
+Cerveza,"Estrella damm",Lata,"12 x 33 cl",9.99,Dia,"Bebidas con alcohol",846
+Cerveza,"Estrella damm",Lata,"33 cl",0.85,Dia,"Bebidas con alcohol",847
+Cerveza,"San Miguel",Botella,"12 x 25 cl",6.35,Dia,"Bebidas con alcohol",848
+"Cerveza clásica",Mahou,Botella,"12 x 25 cl",6.48,Dia,"Bebidas con alcohol",849
+"Cerveza especial",Ambar,Lata,"9 x 33 cl",7.65,Dia,"Bebidas con alcohol",850
+"Cerveza tradicional",Alhambra,Lata,"33 cl",0.75,Dia,"Bebidas con alcohol",851
+Cerveza,Amstel,Lata,"33 cl",0.75,Dia,"Bebidas con alcohol",852
+Cerveza,"San Miguel",Lata,"50 cl",1.09,Dia,"Bebidas con alcohol",853
+Cerveza,Heineken,Botella,"6 x 25 cl",3.33,Dia,"Bebidas con alcohol",854
+"Cerveza sin filtrar",Mahou,Botella," 33 cl",0.99,Dia,"Bebidas con alcohol",855
+"Cerveza rubia mexicana",Corona,Lata,"6 x 33 cl",6.6,Dia,"Bebidas con alcohol",856
+"Cerveza sin filtrar","El aguila",Lata,"33 cl",0.92,Dia,"Bebidas con alcohol",857
+"Cerveza dorada","El aguila",Botella,"6 x 20 cl",3.19,Dia,"Bebidas con alcohol",858
+"Cerveza sin filtrar",Mahou,Lata," 33 cl",0.95,Dia,"Bebidas con alcohol",859
+"Cerveza artesana winter ale",Ramblers,Botella,"75 cl",1.79,Dia,"Bebidas con alcohol",860
+"Cerveza silver",Heineken,Lata,"33 cl",0.85,Dia,"Bebidas con alcohol",861
+"Cerveza especial",Alhambra,Botella,"6 x 20 cl",3.49,Dia,"Bebidas con alcohol",862
+Cerveza,"La salve",Lata,"33 cl",0.79,Dia,"Bebidas con alcohol",863
+"Cerveza rubia dorada","El aguila",Lata,"10 x 33 cl",8.29,Dia,"Bebidas con alcohol",864
+"Cerveza tostada",Amstel,Lata,"10 x 33 cl",8.29,Dia,"Bebidas con alcohol",865
+"Cerveza bohemia lager","La sagra",Lata,"33 cl",0.69,Dia,"Bebidas con alcohol",866
+"Cerveza especial",Cruzcampo,Botella,"6 x 200 ml",3.39,Dia,"Bebidas con alcohol",867
+Cerveza,Mahou,Lata," 25 cl",0.69,Dia,"Bebidas con alcohol",868
+"Cerveza rubia dorada","El aguila",Lata,"33 cl",0.85,Dia,"Bebidas con alcohol",869
+"Cerveza  Magna","San Miguel",Lata,"12 x 33 cl",9.49,Dia,"Bebidas con alcohol",870
+"Cerveza lager sin filtrar","El aguila",Botella,"33 cl",0.99,Dia,"Bebidas con alcohol",871
+"Cerveza magna  Magna","San Miguel",Lata,"33 cl",0.85,Dia,"Bebidas con alcohol",872
+"Cerveza sin gluten",Mahou,Botella," 33 cl",1.19,Dia,"Bebidas con alcohol",873
+Cerveza,Heineken,Lata,"12 x 33 cl",9.69,Dia,"Bebidas con alcohol",874
+"Cerveza sin gluten",Mahou,Lata,"33 cl",0.85,Dia,"Bebidas con alcohol",875
+Cerveza,Sureña,Botella,"1 l",1.29,Dia,"Bebidas con alcohol",876
+"Cerveza tostada  Oro",Amstel,Lata,"33 cl",0.85,Dia,"Bebidas con alcohol",877
+Cerveza,Amstel,Botella,"6 x 25 cl",3.09,Dia,"Bebidas con alcohol",878
+"Cerveza especial",Ambar,Botella,"6 x 25 cl",4.29,Dia,"Bebidas con alcohol",879
+"Cerveza especial",Ambar,Lata,"33 cl",0.85,Dia,"Bebidas con alcohol",880
+Cerveza,Mahou,Lata," 33 cl",0.85,Dia,"Bebidas con alcohol",881
+Cerveza,Mahou,Botella," 6 x 25 cl",4.05,Dia,"Bebidas con alcohol",882
+"Cerveza clásica",Amstel,Lata,"33 cl",0.45,Dia,"Bebidas con alcohol",883
+"Cerveza clásica",Mahou,Botella,"1 l",1.77,Dia,"Bebidas con alcohol",884
+Cerveza,Amstel,Lata,"50 cl",1.09,Dia,"Bebidas con alcohol",885
+"Cerveza clásica",Mahou,Botella,"6 x 25 cl",3.49,Dia,"Bebidas con alcohol",886
+Cerveza,"San Miguel",Lata,"33 cl",0.75,Dia,"Bebidas con alcohol",887
+Cerveza,"San Miguel",Botella,"6 x 25 cl",3.49,Dia,"Bebidas con alcohol",888
+"Cerveza clásica",Mahou,Lata,"50 cl",1.09,Dia,"Bebidas con alcohol",889
+Cerveza,Mahou,Lata," 50 cl",1.29,Dia,"Bebidas con alcohol",890
+"Galletas rellenas de crema de chocolate",Galleteca,Paquete,"500 g",1.2,Dia,"Cereales y galletas",891
+"Galletas dorada maría",Galleteca,Paquete,"800 g",1.55,Dia,"Cereales y galletas",892
+"Galletas relieve",Galleteca,Caja,"735 g",1.69,Dia,"Cereales y galletas",893
+"Galletas maría",Galleteca,Paquete,"800 g",1.55,Dia,"Cereales y galletas",894
+"Galletas de desayuno  Tostarica",Cuétara,Caja,"570 g",2.99,Dia,"Cereales y galletas",895
+"Galletas de cereales con vitaminas  Dinosaurus",Artiach,Caja,"411 g",3.49,Dia,"Cereales y galletas",896
+"Galleta rellena de crema de chocolate",Principe,Paquete,"3 x 300 g",5.59,Dia,"Cereales y galletas",897
+"Galletas tostaditas",Galleteca,Caja,"600 g",1.6,Dia,"Cereales y galletas",898
+"Galletas de desayuno la buena maría",Fontaneda,Caja,"800 g",3.3,Dia,"Cereales y galletas",899
+"Galletas de cacao rellenas de crema",Galleteca,Caja,"220 g",0.77,Dia,"Cereales y galletas",900
+"Galletas digestive con chocolate",Galleteca,Paquete,"300 g",1.05,Dia,"Cereales y galletas",901
+"Galletas cubiertas de chocolate con leche",Galleteca,Caja,"150 g",1.25,Dia,"Cereales y galletas",902
+"Roscos de galleta con chocolate blanco chocoaros",Galleteca,Bolsa,"128 g",0.75,Dia,"Cereales y galletas",903
+"Mini galletas con pepitas de chocolate",Galleteca,Caja,"160 g",1.3,Dia,"Cereales y galletas",904
+"Galletas con pepitas de chocolate",Galleteca,Bolsa,"225 g",1.15,Dia,"Cereales y galletas",905
+"Galletas con canela  Napolitanas",Cuétara,Caja,"426 g",2.79,Dia,"Cereales y galletas",906
+"Galletas digestive",Galleteca,Caja,"800 g",1.75,Dia,"Cereales y galletas",907
+"Galletas integrales maría",Galleteca,Caja,"800 g",1.6,Dia,"Cereales y galletas",908
+"Galletas tostadas",Galleteca,Paquete,"800 g",1.55,Dia,"Cereales y galletas",909
+"Galletas de cacao rellenas de crema bañadas con chocolate con leche",Galleteca,Caja,"252 g",1.39,Dia,"Cereales y galletas",910
+"Roscos de galleta con chocolate con leche chocoaros",Galleteca,Bolsa,"128 g",0.75,Dia,"Cereales y galletas",911
+"Galletas digestive con avena y chocolate",Gullón,Caja,"425 g",2.19,Dia,"Cereales y galletas",912
+"Galletas digestive con chocolate con leche",Fontaneda,Caja,"300 g",3.7,Dia,"Cereales y galletas",913
+"Galletas digestive sin azúcares",Gullón,Caja,"400 g",2.65,Dia,"Cereales y galletas",914
+"Galletas chip choco con pepitas de chocolate sin azúcares",Gullón,Bolsa,"125 g",2.05,Dia,"Cereales y galletas",915
+"Galletas palets de mantequilla","St Michel",Caja,"150 g",1.95,Dia,"Cereales y galletas",916
+"Galletas integrales  Active",Gullón,Paquete,"280 g",1.59,Dia,"Cereales y galletas",917
+"Galletas doradas al horno sin azúcares",Gullón,Caja,"330 g",3.29,Dia,"Cereales y galletas",918
+"Galletas con chocolate rellenas de naranja",Galleteca,Caja,"300 g",1.69,Dia,"Cereales y galletas",919
+"Galletas  Campurrianas",Cuétara,Caja,"755 g",3.99,Dia,"Cereales y galletas",920
+"Galletas cubiertas de chocolate negro",Galleteca,Caja,"150 g",1.25,Dia,"Cereales y galletas",921
+"Mini galletas de cacao rellenas de crema",Oreo,Caja,"160 g",1.99,Dia,"Cereales y galletas",922
+"Galletas chocolateadas Los Simpsons",Arluy,Bolsa,"400 g",2.95,Dia,"Cereales y galletas",923
+"Galletas rellenas de caramelo","Doña delicia",Bolsa,"40 g",0.6,Dia,"Cereales y galletas",924
+"Galletas al horno",Marbú,Caja,"400 g",2.85,Dia,"Cereales y galletas",925
+"Galletas rellenas de chocolate y crema choco guay  Tostarica",Cuétara,Caja,"168 g",2.45,Dia,"Cereales y galletas",926
+"Galletas de desayuno",Artiach,Caja,"  525 g",3.85,Dia,"Cereales y galletas",927
+"Galletas  María Oro",Cuétara,Bolsa,"600 g",3.39,Dia,"Cereales y galletas",928
+"Galletas con chocolate  Campurrianas",Cuétara,Caja,"450 g",3.89,Dia,"Cereales y galletas",929
+"Galletas a cucharadas ositos sabor choco  Chiquilin",Artiach,Caja,"320 g",3.49,Dia,"Cereales y galletas",930
+"Galletas de cereales con chocolate blanco  Dinosaurus",Artiach,Caja,"264 g",2.99,Dia,"Cereales y galletas",931
+"Galletas choco leche  Dinosaurus",Artiach,Caja,"255 g",2.99,Dia,"Cereales y galletas",932
+"Galletas de desayuno  Chiquilin",Artiach,Caja,"525 g",3.65,Dia,"Cereales y galletas",933
+"Galletas de cacao Patrulla Canina",Nickelodeon,Bolsa,"150 g",1.59,Dia,"Cereales y galletas",934
+"Galletas con pepitas de chocolate oceanix  Tostarica",Cuétara,Caja,"400 g",3.99,Dia,"Cereales y galletas",935
+Barquillos,Mels,Bote,"150 g",1.95,Dia,"Cereales y galletas",936
+"Conos de helado",Mels,Bote,"110 g",1.95,Dia,"Cereales y galletas",937
+"Galletas de corte para helado",Mels,Caja,"35 g",0.49,Dia,"Cereales y galletas",938
+"Galleta bañada en chocolate  Tostarica",Cuétara,Caja,"210 g",2.69,Dia,"Cereales y galletas",939
+"Galletas saladas con semillas de chía","Biscuits Galicia",Bolsa,"200 g",2.09,Dia,"Cereales y galletas",940
+"Galletas digestive avena y chocolate",Gullón,Bolsa,"150 g",2.29,Dia,"Cereales y galletas",941
+"Mini galletas digestive de chocolate con leche",Gullón,Bolsa,"160 g",1.2,Dia,"Cereales y galletas",942
+"Mini galletas digestive con avena y chocolate",Gullón,Bolsa,"160 g",1.2,Dia,"Cereales y galletas",943
+"Galletas caramelizadas rellenas de crema","Lotus Biscoff",Bolsa,"150 g",1.75,Dia,"Cereales y galletas",944
+"Galletas integrales con",Florbu,Bolsa,"400 g",2.79,Dia,"Cereales y galletas",945
+"Tartelettes rellenas de frambuesa","Bonne maman",Caja,"135 g",2.85,Dia,"Cereales y galletas",946
+"Galletas con mantequilla","Paw Patrol",Bolsa,"150 g",1.59,Dia,"Cereales y galletas",947
+"Galletas sin sal y sin azúcar  Ligera",Gullón,Paquete,"200 g",1.29,Dia,"Cereales y galletas",948
+"Galletas integrales sin azúcar",Florbu,Bolsa,"350 g",2.49,Dia,"Cereales y galletas",949
+"Barquillos mix",Florbu,Bolsa,"360 g",2.19,Dia,"Cereales y galletas",950
+"Galletas recubiertas con chocolate con leche",Milka,Caja,"126 g",1.85,Dia,"Cereales y galletas",951
+"Galletas finas cubiertas de chocolate con leche sin azúcares",Gullón,Bolsa,"150 g",2.25,Dia,"Cereales y galletas",952
+"Galletas a cucharadas con cereales y vitaminas  Dinosaurus",Artiach,Caja,"320 g",2.99,Dia,"Cereales y galletas",953
+"Galletas rellenas con crema de cacao",Nocilla,Bolsa,"120 g",2.29,Dia,"Cereales y galletas",954
+"Galletas de barquillo recubiertas de chocolate mini wafers",Milka,Bolsa,"110 g",1.99,Dia,"Cereales y galletas",955
+"Galletas rellenas de crema de cacao",Nutella,Bolsa,"304 g",3.99,Dia,"Cereales y galletas",956
+"Palitos de galleta recubiertos de chocolate con leche  estuche",Mikado,Frasco,"75 g",1.99,Dia,"Cereales y galletas",957
+"Galletas caramelizadas","Lotus Biscoff",Paquete,"250 g",1.89,Dia,"Cereales y galletas",958
+"Galletas caramelizadas rellenas de crema de vainilla","Lotus Biscoff",Bolsa,"150 g",1.75,Dia,"Cereales y galletas",959
+"Mini galletas rellenas de crema",Oreo,Caja,"160 g",1.99,Dia,"Cereales y galletas",960
+"Mini galletas rellenas con crema de cacao",Nocilla,Bolsa,"64 g",1.5,Dia,"Cereales y galletas",961
+"Mini galletas rellenas con crema de leche",Nocilla,Bolsa,"64 g",1.5,Dia,"Cereales y galletas",962
+"Galletas caramelizadas rellenas de chocolate","Lotus Biscoff",Bolsa,"150 g",1.75,Dia,"Cereales y galletas",963
+"Galletas con pepitas de chocolate con leche",Milka,Bolsa,"110 g",1.99,Dia,"Cereales y galletas",964
+"Galletas de cacao rellenas de crema bañadas con chocolate crunchy bites",Oreo,Bolsa,"110 g",1.85,Dia,"Cereales y galletas",965
+"Obleas con doble relleno",Kinder,Caja,"128 g",2.79,Dia,"Cereales y galletas",966
+"Palitos de galleta recubiertos de chocolate negro",Galleteca,Caja,"75 g",1.19,Dia,"Cereales y galletas",967
+"Mini galletas con pepitas de chocolate","Chips Ahoy",Caja,"160 g",1.95,Dia,"Cereales y galletas",968
+"Galletas digestive finas con chocolate negro",Fontaneda,Caja,"170 g",2.55,Dia,"Cereales y galletas",969
+"Galletas digestive finas con chocolate con leche",Fontaneda,Caja,"170 g",2.55,Dia,"Cereales y galletas",970
+"Roscos de galleta con chocolate blanco  Filipinos",Artiach,Bolsa,"93 g ",1.4,Dia,"Cereales y galletas",971
+"Galletas  Surtido",Cuétara,Caja,"420 g",5.99,Dia,"Cereales y galletas",972
+"Galletas de desayuno mini go  Tostarica",Cuétara,Caja,"240 g",2.85,Dia,"Cereales y galletas",973
+"Mini galletas de cacao rellenas de crema",Galleteca,Bolsa,"100 g",0.69,Dia,"Cereales y galletas",974
+"Galletas integral con avena y naranja",Gullón,Caja,"425 g",2.19,Dia,"Cereales y galletas",975
+"Galletas rellenas de crema de chocolate",Galleteca,Caja,"176 g",0.72,Dia,"Cereales y galletas",976
+"Galleta rellena de chocolate",Milka,Bolsa,"156 g",2.95,Dia,"Cereales y galletas",977
+"Galletas dibus sharkies con cacao sin gluten",Gullón,Caja,"250 g",2.89,Dia,"Cereales y galletas",978
+"Galletas con pepitas de chocolate y relleno de chocolate",Galleteca,Bolsa,"200 g",1.99,Dia,"Cereales y galletas",979
+"Barquillos rellenos de nata",Galleteca,Bolsa,"210 g",1,Dia,"Cereales y galletas",980
+"Barquillos rellenos de cacao",Galleteca,Bolsa,"210 g",1,Dia,"Cereales y galletas",981
+"Palitos de galleta recubiertos de chocolate",Mikado,Caja,"75 g",1.99,Dia,"Cereales y galletas",982
+"Galletas con fibra sin azúcares","Diet fibra",Bolsa,"240 g",1.65,Dia,"Cereales y galletas",983
+"Galletas huevos de cereales con chocolate  Dinosaurus",Artiach,Caja,"140 g",2.45,Dia,"Cereales y galletas",984
+"Galletas crocant original con copos de avena  Vitalday",Gullón,Caja,"265 g",1.99,Dia,"Cereales y galletas",985
+"Galletas sándwich con avena y frutos rojos rellenas de yogurt  Vitalday",Gullón,Caja,"220 g",2.29,Dia,"Cereales y galletas",986
+"Galletas sándwich con avena y chips de chocolate rellenas de avellanas  Vitalday",Gullón,Caja,"220 g",2.29,Dia,"Cereales y galletas",987
+"Palitos de galleta recubiertos de chocolate con leche",Galleteca,Caja,"75 g",1.19,Dia,"Cereales y galletas",988
+"Mini galletas chocolateadas con vitaminas",Arluy,Caja,"135 g",1.89,Dia,"Cereales y galletas",989
+"Galleta rellena de crema de chocolate",Principe,Paquete,"300 g",2.29,Dia,"Cereales y galletas",990
+"Galletas rellenas de chocolate maxi choc",Principe,Paquete,"3 x 250 g",5.89,Dia,"Cereales y galletas",991
+"Surtido de galletas",Galleteca,Caja,"500 g",3.89,Dia,"Cereales y galletas",992
+"Galletas con arándanos y pepitas de chocolate blanco",Galleteca,Bolsa,"184 g",1.99,Dia,"Cereales y galletas",993
+"Galletas con chocolate energy  Chiquilin",Artiach,Caja,"200 g",3.59,Dia,"Cereales y galletas",994
+"Galletas rellenas de chocolate maxi choc",Principe,Paquete,"250 g",2.29,Dia,"Cereales y galletas",995
+"Roscos de galleta con chocolate negro  Filipinos",Artiach,Bolsa,"128 g ",1.4,Dia,"Cereales y galletas",996
+"Mini galletas Los Simpsons",Arluy,Bolsa,"400 g",3.95,Dia,"Cereales y galletas",997
+"Galletas rellenas de arroz inflado chocolateado  Flakes",Cuétara,Caja,"520 g",3.49,Dia,"Cereales y galletas",998
+"Galletas con pepitas de chocolate","Chips Ahoy",Caja,"300 g",3.95,Dia,"Cereales y galletas",999
+"Galletas maría sin gluten",Gullón,Caja,"400 g",3.05,Dia,"Cereales y galletas",1000
